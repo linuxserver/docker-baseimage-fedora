@@ -17,7 +17,7 @@ RUN \
   mkdir /root-out && \
   curl -o \
     /rootfs.tar.xz -L \
-    https://github.com/fedora-cloud/docker-brew-fedora/raw/34/${ARCH}/fedora-34.20210514-${ARCH}.tar.xz && \
+    https://github.com/fedora-cloud/docker-brew-fedora/raw/34/${ARCH}/fedora-34.20210722-${ARCH}.tar.xz && \
   tar xf \
     /rootfs.tar.xz -C \
     /root-out && \
