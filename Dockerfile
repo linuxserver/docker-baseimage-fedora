@@ -2,12 +2,14 @@ FROM alpine:3.14 as rootfs-stage
 
 # environment
 ENV ARCH=x86_64
+ARG FEDORA_VERSION
 
 # install packages
 RUN \
   apk add --no-cache \
     bash \
     curl \
+    git \
     jq \
     tzdata \
     xz
@@ -15,11 +17,9 @@ RUN \
 # grab tarball root
 RUN \
   mkdir /root-out && \
-  curl -o \
-    /rootfs.tar.xz -L \
-    https://github.com/fedora-cloud/docker-brew-fedora/raw/34/${ARCH}/fedora-34.20210722-${ARCH}.tar.xz && \
+  git clone -b ${FEDORA_VERSION} https://github.com/fedora-cloud/docker-brew-fedora.git && \
   tar xf \
-    /rootfs.tar.xz -C \
+    docker-brew-fedora/${ARCH}/fedora-${FEDORA_VERSION}*.tar.xz -C \
     /root-out && \
   sed -i -e 's/^root::/root:!:/' /root-out/etc/shadow
 
