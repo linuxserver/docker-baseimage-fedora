@@ -18,7 +18,7 @@ fi
 if [ ! -f /usr/bin/curl ] || [ ! -f /usr/bin/jq ]; then
   echo "[mod-init] Curl/JQ was not found on this system for Docker mods installing"
   if [ -f /usr/bin/apt ]; then
-    ## Ubuntu
+    # Ubuntu
     apt-get update
     apt-get install --no-install-recommends -y \
       curl \
@@ -28,6 +28,11 @@ if [ ! -f /usr/bin/curl ] || [ ! -f /usr/bin/jq ]; then
     apk add --no-cache \
       curl \
       jq
+  elif [ -f /usr/bin/dnf ]; then
+    # Fedora
+    dnf install -y --setopt=install_weak_deps=False --best install \
+      curl \
+      jq      
   fi
 fi
 
