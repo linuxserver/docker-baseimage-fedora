@@ -32,7 +32,7 @@ if [ ! -f /usr/bin/curl ] || [ ! -f /usr/bin/jq ]; then
     # Fedora
     dnf install -y --setopt=install_weak_deps=False --best install \
       curl \
-      jq      
+      jq
   fi
 fi
 
