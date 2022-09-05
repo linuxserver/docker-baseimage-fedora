@@ -155,7 +155,7 @@ curl_check() {
             # Fedora
             dnf install -y --setopt=install_weak_deps=False --best install \
                 curl \
-                jq                
+                jq
         fi
     fi
 }
