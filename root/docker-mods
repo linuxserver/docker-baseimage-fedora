@@ -153,7 +153,7 @@ curl_check() {
                 jq
         elif [ -f /usr/bin/dnf ]; then
             # Fedora
-            dnf install -y --setopt=install_weak_deps=False --best install \
+            dnf install -y --setopt=install_weak_deps=False --best \
                 curl \
                 jq
         fi
