@@ -45,8 +45,11 @@ FROM scratch
 COPY --from=rootfs-stage /root-out/ /
 ARG BUILD_DATE
 ARG VERSION
+ARG MODS_VERSION="v3"
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="TheLamer"
+
+ADD "https://raw.githubusercontent.com/linuxserver/docker-mods/mod-scripts/docker-mods.${MODS_VERSION}" "/docker-mods"
 
 # environment variables
 ENV PS1="$(whoami)@$(hostname):$(pwd)\\$ " \
@@ -61,8 +64,11 @@ RUN \
   dnf -y --setopt=install_weak_deps=False --best install \
     ca-certificates \
     coreutils \
+    curl \
     findutils \
     hostname \
+    jq \
+    netcat \
     procps \
     shadow \
     tzdata \
@@ -74,6 +80,7 @@ RUN \
     /app \
     /config \
     /defaults && \
+  chmod +x /docker-mods && \
   echo "**** cleanup ****" && \
   dnf autoremove -y && \
   dnf clean all && \
