@@ -10,7 +10,7 @@ coreutils-9.0-8.fc36.x86_64
 coreutils-common-9.0-8.fc36.x86_64
 cracklib-2.9.6-28.fc36.x86_64
 crypto-policies-20220428-1.gitdfb10ea.fc36.noarch
-curl-7.82.0-8.fc36.x86_64
+curl-7.82.0-9.fc36.x86_64
 cyrus-sasl-lib-2.1.27-18.fc36.x86_64
 dnf-4.13.0-1.fc36.noarch
 dnf-data-4.13.0-1.fc36.noarch
@@ -57,7 +57,7 @@ libcap-2.48-4.fc36.x86_64
 libcap-ng-0.8.3-1.fc36.x86_64
 libcom_err-1.46.5-2.fc36.x86_64
 libcomps-0.1.18-2.fc36.x86_64
-libcurl-7.82.0-8.fc36.x86_64
+libcurl-7.82.0-9.fc36.x86_64
 libdb-5.3.28-51.fc36.x86_64
 libdnf-0.67.0-2.fc36.x86_64
 libeconf-0.4.0-3.fc36.x86_64
