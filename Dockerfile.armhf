@@ -13,7 +13,6 @@ RUN \
     curl \
     git \
     jq \
-    tar \
     tzdata \
     xz
 
