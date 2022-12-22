@@ -19,9 +19,9 @@ elfutils-libelf-0.187-4.fc36.x86_64
 elfutils-libs-0.187-4.fc36.x86_64
 expat-2.5.0-1.fc36.x86_64
 fedora-gpg-keys-36-4.noarch
-fedora-release-common-36-20.noarch
-fedora-release-container-36-20.noarch
-fedora-release-identity-container-36-20.noarch
+fedora-release-common-36-21.noarch
+fedora-release-container-36-21.noarch
+fedora-release-identity-container-36-21.noarch
 fedora-repos-36-4.noarch
 fedora-repos-modular-36-4.noarch
 file-libs-5.41-4.fc36.x86_64
@@ -52,7 +52,7 @@ libassuan-2.5.5-4.fc36.x86_64
 libattr-2.5.1-4.fc36.x86_64
 libblkid-2.38-1.fc36.x86_64
 libbrotli-1.0.9-7.fc36.x86_64
-libbsd-0.10.0-9.fc36.x86_64
+libbsd-0.11.7-2.fc36.x86_64
 libcap-2.48-4.fc36.x86_64
 libcap-ng-0.8.3-1.fc36.x86_64
 libcom_err-1.46.5-2.fc36.x86_64
@@ -70,6 +70,7 @@ libgomp-12.2.1-4.fc36.x86_64
 libgpg-error-1.45-1.fc36.x86_64
 libidn2-2.3.4-1.fc36.x86_64
 libksba-1.6.2-1.fc36.x86_64
+libmd-1.0.4-2.fc36.x86_64
 libmodulemd-2.14.0-2.fc36.x86_64
 libmount-2.38-1.fc36.x86_64
 libnghttp2-1.51.0-1.fc36.x86_64
@@ -88,12 +89,12 @@ libsolv-0.7.22-1.fc36.x86_64
 libssh-0.9.6-4.fc36.x86_64
 libssh-config-0.9.6-4.fc36.noarch
 libstdc++-12.2.1-4.fc36.x86_64
-libtasn1-4.18.0-2.fc36.x86_64
+libtasn1-4.19.0-1.fc36.x86_64
 libtirpc-1.3.3-0.fc36.x86_64
 libunistring-1.0-1.fc36.x86_64
 libuuid-2.38-1.fc36.x86_64
 libverto-0.3.2-3.fc36.x86_64
-libxcrypt-4.4.33-1.fc36.x86_64
+libxcrypt-4.4.33-3.fc36.x86_64
 libxml2-2.10.3-2.fc36.x86_64
 libyaml-0.2.5-7.fc36.x86_64
 libzstd-1.5.2-2.fc36.x86_64
