@@ -30,9 +30,9 @@ findutils-4.9.0-1.fc36.x86_64
 gawk-5.1.1-2.fc36.x86_64
 gdbm-libs-1.22-2.fc36.x86_64
 glib2-2.72.3-1.fc36.x86_64
-glibc-2.35-20.fc36.x86_64
-glibc-common-2.35-20.fc36.x86_64
-glibc-minimal-langpack-2.35-20.fc36.x86_64
+glibc-2.35-22.fc36.x86_64
+glibc-common-2.35-22.fc36.x86_64
+glibc-minimal-langpack-2.35-22.fc36.x86_64
 gmp-6.2.1-2.fc36.x86_64
 gnupg2-2.3.7-3.fc36.x86_64
 gnutls-3.7.8-3.fc36.x86_64
