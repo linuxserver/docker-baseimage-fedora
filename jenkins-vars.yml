@@ -7,6 +7,7 @@ custom_version_command: "echo 36"
 release_type: stable
 release_tag: "36"
 ls_branch: master
+build_armhf: false
 repo_vars:
   - BUILD_VERSION_ARG = 'FEDORA_VERSION'
   - LS_USER = 'linuxserver'
