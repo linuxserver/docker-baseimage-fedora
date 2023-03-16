@@ -15,9 +15,9 @@ curl                               7.85.0-7.fc37                     rpm
 cyrus-sasl-lib                     2.1.28-8.fc37                     rpm     
 dnf                                4.14.0-1.fc37                     rpm     
 dnf-data                           4.14.0-1.fc37                     rpm     
-elfutils-default-yama-scope        0.188-3.fc37                      rpm     
-elfutils-libelf                    0.188-3.fc37                      rpm     
-elfutils-libs                      0.188-3.fc37                      rpm     
+elfutils-default-yama-scope        0.189-1.fc37                      rpm     
+elfutils-libelf                    0.189-1.fc37                      rpm     
+elfutils-libs                      0.189-1.fc37                      rpm     
 expat                              2.5.0-1.fc37                      rpm     
 fedora-gpg-keys                    37-2                              rpm     
 fedora-release-common              37-16                             rpm     
@@ -36,7 +36,7 @@ glibc-common                       2.36-9.fc37                       rpm
 glibc-minimal-langpack             2.36-9.fc37                       rpm     
 gmp                                1:6.2.1-3.fc37                    rpm     
 gnupg2                             2.3.8-1.fc37                      rpm     
-gnutls                             3.8.0-1.fc37                      rpm     
+gnutls                             3.8.0-2.fc37                      rpm     
 gpg                                1.17.0                            python  
 gpg-pubkey                         5323552a-6112bcdc                 rpm     
 gpgme                              1.17.0-4.fc37                     rpm     
@@ -112,7 +112,7 @@ netcat                             1.219-2.fc37                      rpm
 nettle                             3.8-2.fc37                        rpm     
 npth                               1.6-9.fc37                        rpm     
 oniguruma                          6.9.8-2.D20220919gitb041f6d.fc37  rpm     
-openldap                           2.6.3-1.fc37                      rpm     
+openldap                           2.6.4-1.fc37                      rpm     
 openssl-libs                       1:3.0.8-1.fc37                    rpm     
 p11-kit                            0.24.1-3.fc37                     rpm     
 p11-kit-trust                      0.24.1-3.fc37                     rpm     
@@ -124,7 +124,7 @@ pcre2-syntax                       10.40-1.fc37.1                    rpm
 popt                               1.19-1.fc37                       rpm     
 procps-ng                          3.3.17-6.fc37.2                   rpm     
 publicsuffix-list-dafsa            20210518-5.fc37                   rpm     
-python                             3.11.2-1                          binary  
+python                             3.11.2                            binary  
 python-pip-wheel                   22.2.2-3.fc37                     rpm     
 python-setuptools-wheel            62.6.0-2.fc37                     rpm     
 python3                            3.11.2-1.fc37                     rpm     
@@ -147,14 +147,14 @@ setup                              2.14.1-2.fc37                     rpm
 shadow-utils                       2:4.12.3-4.fc37                   rpm     
 sqlite-libs                        3.40.0-1.fc37                     rpm     
 sudo                               1.9.13-1.p2.fc37                  rpm     
-systemd-libs                       251.11-2.fc37                     rpm     
+systemd-libs                       251.13-5.fc37                     rpm     
 tar                                2:1.34-5.fc37                     rpm     
 tpm2-tss                           3.2.2-1.fc37                      rpm     
 tzdata                             2022g-1.fc37                      rpm     
 util-linux-core                    2.38.1-1.fc37                     rpm     
 vim-data                           2:9.0.1367-1.fc37                 rpm     
 vim-minimal                        2:9.0.1367-1.fc37                 rpm     
-which                              2.21-35.fc37                      rpm     
+which                              2.21-39.fc37                      rpm     
 xz-libs                            5.4.1-1.fc37                      rpm     
 yum                                4.14.0-1.fc37                     rpm     
 zchunk-libs                        1.3.0-1.fc37                      rpm     
