@@ -147,7 +147,7 @@ setup                              2.14.1-2.fc37                     rpm
 shadow-utils                       2:4.12.3-4.fc37                   rpm     
 sqlite-libs                        3.40.0-1.fc37                     rpm     
 sudo                               1.9.13-1.p2.fc37                  rpm     
-systemd-libs                       251.13-5.fc37                     rpm     
+systemd-libs                       251.13-6.fc37                     rpm     
 tar                                2:1.34-5.fc37                     rpm     
 tpm2-tss                           3.2.2-1.fc37                      rpm     
 tzdata                             2022g-1.fc37                      rpm     
