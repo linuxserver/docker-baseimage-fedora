@@ -144,7 +144,7 @@ rpm-libs                           4.18.0-1.fc37                     rpm
 rpm-sign-libs                      4.18.0-1.fc37                     rpm     
 sed                                4.8-11.fc37                       rpm     
 setup                              2.14.1-2.fc37                     rpm     
-shadow-utils                       2:4.12.3-6.fc37                   rpm     
+shadow-utils                       2:4.12.3-5.fc37                   rpm     
 sqlite-libs                        3.40.0-1.fc37                     rpm     
 sudo                               1.9.13-1.p2.fc37                  rpm     
 systemd-libs                       251.13-6.fc37                     rpm     
