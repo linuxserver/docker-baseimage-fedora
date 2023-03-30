@@ -15,9 +15,9 @@ curl                               7.82.0-13.fc36              rpm
 cyrus-sasl-lib                     2.1.27-18.fc36              rpm     
 dnf                                4.14.0-1.fc36               rpm     
 dnf-data                           4.14.0-1.fc36               rpm     
-elfutils-default-yama-scope        0.188-3.fc36                rpm     
-elfutils-libelf                    0.188-3.fc36                rpm     
-elfutils-libs                      0.188-3.fc36                rpm     
+elfutils-default-yama-scope        0.189-1.fc36                rpm     
+elfutils-libelf                    0.189-1.fc36                rpm     
+elfutils-libs                      0.189-1.fc36                rpm     
 expat                              2.5.0-1.fc36                rpm     
 fedora-gpg-keys                    36-5                        rpm     
 fedora-release-common              36-21                       rpm     
@@ -111,7 +111,7 @@ netcat                             1.219-2.fc36                rpm
 nettle                             3.8-1.fc36                  rpm     
 npth                               1.6-8.fc36                  rpm     
 oniguruma                          6.9.8-1.fc36                rpm     
-openldap                           2.6.3-1.fc36                rpm     
+openldap                           2.6.4-1.fc36                rpm     
 openssl-libs                       1:3.0.8-1.fc36              rpm     
 p11-kit                            0.24.1-2.fc36               rpm     
 p11-kit-trust                      0.24.1-2.fc36               rpm     
