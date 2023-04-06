@@ -151,8 +151,8 @@ tar                                2:1.34-3.fc36               rpm
 tpm2-tss                           3.2.2-1.fc36                rpm     
 tzdata                             2022g-1.fc36                rpm     
 util-linux-core                    2.38-1.fc36                 rpm     
-vim-data                           2:9.0.1307-1.fc36           rpm     
-vim-minimal                        2:9.0.1307-1.fc36           rpm     
+vim-data                           2:9.0.1407-1.fc36           rpm     
+vim-minimal                        2:9.0.1407-1.fc36           rpm     
 which                              2.21-32.fc36                rpm     
 xz-libs                            5.4.1-1.fc36                rpm     
 yum                                4.14.0-1.fc36               rpm     
