@@ -1,5 +1,5 @@
 NAME                               VERSION                     TYPE   
-alternatives                       1.21-1.fc36                 rpm     
+alternatives                       1.22-1.fc36                 rpm     
 audit-libs                         3.1-2.fc36                  rpm     
 authselect                         1.4.0-1.fc36                rpm     
 authselect-libs                    1.4.0-1.fc36                rpm     
@@ -11,7 +11,7 @@ coreutils                          9.0-9.fc36                  rpm
 coreutils-common                   9.0-9.fc36                  rpm     
 cracklib                           2.9.6-28.fc36               rpm     
 crypto-policies                    20220428-1.gitdfb10ea.fc36  rpm     
-curl                               7.82.0-13.fc36              rpm     
+curl                               7.82.0-14.fc36              rpm     
 cyrus-sasl-lib                     2.1.27-18.fc36              rpm     
 dnf                                4.14.0-1.fc36               rpm     
 dnf-data                           4.14.0-1.fc36               rpm     
@@ -60,7 +60,7 @@ libcap-ng                          0.8.3-1.fc36                rpm
 libcom_err                         1.46.5-2.fc36               rpm     
 libcomps                           0.1.18                      python  
 libcomps                           0.1.18-2.fc36               rpm     
-libcurl                            7.82.0-13.fc36              rpm     
+libcurl                            7.82.0-14.fc36              rpm     
 libdb                              5.3.28-51.fc36              rpm     
 libdnf                             0.68.0-1.fc36               rpm     
 libeconf                           0.4.0-3.fc36                rpm     
