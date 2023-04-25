@@ -1,0 +1,12 @@
+# Based on the issue template
+name: Bug report
+description: Create a report to help us improve
+title: "[BUG] <title>"
+labels: [Bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # DEPRECATION NOTICE
+
+        This image is deprecated. We will not offer support for this image and it will not be updated.
