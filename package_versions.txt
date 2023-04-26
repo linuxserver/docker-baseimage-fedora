@@ -30,7 +30,7 @@ filesystem                         3.18-2.fc37                       rpm
 findutils                          1:4.9.0-2.fc37                    rpm     
 gawk                               5.1.1-4.fc37                      rpm     
 gdbm-libs                          1:1.23-2.fc37                     rpm     
-glib2                              2.74.6-1.fc37                     rpm     
+glib2                              2.74.7-1.fc37                     rpm     
 glibc                              2.36-9.fc37                       rpm     
 glibc-common                       2.36-9.fc37                       rpm     
 glibc-minimal-langpack             2.36-9.fc37                       rpm     
@@ -99,7 +99,7 @@ libunistring                       1.0-2.fc37                        rpm
 libuuid                            2.38.1-1.fc37                     rpm     
 libverto                           0.3.2-4.fc37                      rpm     
 libxcrypt                          4.4.33-4.fc37                     rpm     
-libxml2                            2.10.3-2.fc37                     rpm     
+libxml2                            2.10.4-1.fc37                     rpm     
 libyaml                            0.2.5-8.fc37                      rpm     
 libzstd                            1.5.5-1.fc37                      rpm     
 lua-libs                           5.4.4-9.fc37                      rpm     
@@ -124,16 +124,16 @@ pcre2-syntax                       10.40-1.fc37.1                    rpm
 popt                               1.19-1.fc37                       rpm     
 procps-ng                          3.3.17-6.fc37.2                   rpm     
 publicsuffix-list-dafsa            20230318-1.fc37                   rpm     
-python                             3.11.2                            binary  
+python                             3.11.3                            binary  
 python-pip-wheel                   22.2.2-3.fc37                     rpm     
 python-setuptools-wheel            62.6.0-2.fc37                     rpm     
-python3                            3.11.2-1.fc37                     rpm     
+python3                            3.11.3-1.fc37                     rpm     
 python3-dnf                        4.15.0-1.fc37                     rpm     
 python3-gpg                        1.17.0-4.fc37                     rpm     
 python3-hawkey                     0.70.0-1.fc37                     rpm     
 python3-libcomps                   0.1.18-4.fc37                     rpm     
 python3-libdnf                     0.70.0-1.fc37                     rpm     
-python3-libs                       3.11.2-1.fc37                     rpm     
+python3-libs                       3.11.3-1.fc37                     rpm     
 python3-rpm                        4.18.0-1.fc37                     rpm     
 readline                           8.2-2.fc37                        rpm     
 rootfiles                          8.1-32.fc37                       rpm     
