@@ -150,7 +150,7 @@ sudo                               1.9.13-1.p2.fc37                  rpm
 systemd-libs                       251.14-2.fc37                     rpm     
 tar                                2:1.34-6.fc37                     rpm     
 tpm2-tss                           3.2.2-1.fc37                      rpm     
-tzdata                             2022g-1.fc37                      rpm     
+tzdata                             2023c-1.fc37                      rpm     
 util-linux-core                    2.38.1-1.fc37                     rpm     
 vim-data                           2:9.0.1440-1.fc37                 rpm     
 vim-minimal                        2:9.0.1440-1.fc37                 rpm     
