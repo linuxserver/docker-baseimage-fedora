@@ -9,7 +9,7 @@ bzip2-libs                         1.0.8-13.fc38                       rpm
 ca-certificates                    2023.2.60-2.fc38                    rpm     
 coreutils                          9.1-12.fc38                         rpm     
 coreutils-common                   9.1-12.fc38                         rpm     
-cracklib                           2.9.7-31.fc38                       rpm     
+cracklib                           2.9.11-1.fc38                       rpm     
 crypto-policies                    20230301-1.gita12f7b2.fc38          rpm     
 curl                               8.0.1-2.fc38                        rpm     
 cyrus-sasl-lib                     2.1.28-9.fc38                       rpm     
@@ -30,7 +30,7 @@ filesystem                         3.18-3.fc38                         rpm
 findutils                          1:4.9.0-3.fc38                      rpm     
 gawk                               5.1.1-5.fc38                        rpm     
 gdbm-libs                          1:1.23-3.fc38                       rpm     
-glib2                              2.76.3-1.fc38                       rpm     
+glib2                              2.76.4-1.fc38                       rpm     
 glibc                              2.37-4.fc38                         rpm     
 glibc-common                       2.37-4.fc38                         rpm     
 glibc-minimal-langpack             2.37-4.fc38                         rpm     
@@ -47,7 +47,7 @@ ima-evm-utils                      1.4-7.fc38                          rpm
 jq                                 1.6-15.fc38                         rpm     
 json-c                             0.16-4.fc38                         rpm     
 keyutils-libs                      1.6.1-6.fc38                        rpm     
-krb5-libs                          1.20.1-8.fc38                       rpm     
+krb5-libs                          1.21-2.fc38                         rpm     
 libacl                             2.3.1-6.fc38                        rpm     
 libarchive                         3.6.1-4.fc38                        rpm     
 libassuan                          2.5.6-1.fc38                        rpm     
