@@ -68,6 +68,7 @@ ENV PS1="$(whoami)@$(hostname):$(pwd)\\$ " \
 RUN \
   echo "**** install base packages ****" && \
   dnf -y --setopt=install_weak_deps=False --best install \
+    busybox \
     ca-certificates \
     coreutils \
     curl \
