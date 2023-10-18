@@ -11,7 +11,7 @@ coreutils                          9.1-12.fc38                         rpm
 coreutils-common                   9.1-12.fc38                         rpm     
 cracklib                           2.9.11-1.fc38                       rpm     
 crypto-policies                    20230301-1.gita12f7b2.fc38          rpm     
-curl                               8.0.1-4.fc38                        rpm     
+curl                               8.0.1-5.fc38                        rpm     
 cyrus-sasl-lib                     2.1.28-9.fc38                       rpm     
 dnf                                4.17.0-6.fc38                       rpm     
 dnf-data                           4.17.0-6.fc38                       rpm     
@@ -60,7 +60,7 @@ libcap-ng                          0.8.3-8.fc38                        rpm
 libcom_err                         1.46.5-4.fc38                       rpm     
 libcomps                           0.1.20                              python  
 libcomps                           0.1.20-1.fc38                       rpm     
-libcurl                            8.0.1-4.fc38                        rpm     
+libcurl                            8.0.1-5.fc38                        rpm     
 libdb                              5.3.28-55.fc38                      rpm     
 libdnf                             0.71.0-2.fc38                       rpm     
 libeconf                           0.5.2-1.fc38                        rpm     
