@@ -5,6 +5,7 @@ authselect                         1.4.3-1.fc38                 rpm
 authselect-libs                    1.4.3-1.fc38                 rpm     
 basesystem                         11-15.fc38                   rpm     
 bash                               5.2.15-3.fc38                rpm     
+busybox                            1:1.36.0-2.fc38              rpm     
 bzip2-libs                         1.0.8-13.fc38                rpm     
 ca-certificates                    2023.2.60_v7.0.306-1.0.fc38  rpm     
 coreutils                          9.1-12.fc38                  rpm     
