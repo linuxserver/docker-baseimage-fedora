@@ -4,9 +4,9 @@
 project_name: docker-baseimage-fedora
 external_type: na
 custom_version_command: "echo 38"
-release_type: stable
+release_type: prerelease
 release_tag: "38"
-ls_branch: master
+ls_branch: 38
 build_armhf: false
 repo_vars:
   - BUILD_VERSION_ARG = 'FEDORA_VERSION'
