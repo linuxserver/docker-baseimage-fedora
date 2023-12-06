@@ -22,9 +22,9 @@ elfutils-libelf                    0.190-1.fc39                rpm
 elfutils-libs                      0.190-1.fc39                rpm     
 expat                              2.5.0-3.fc39                rpm     
 fedora-gpg-keys                    39-1                        rpm     
-fedora-release-common              39-30                       rpm     
-fedora-release-container           39-30                       rpm     
-fedora-release-identity-container  39-30                       rpm     
+fedora-release-common              39-34                       rpm     
+fedora-release-container           39-34                       rpm     
+fedora-release-identity-container  39-34                       rpm     
 fedora-repos                       39-1                        rpm     
 file-libs                          5.44-5.fc39                 rpm     
 filesystem                         3.18-6.fc39                 rpm     
@@ -37,7 +37,7 @@ glibc-common                       2.38-11.fc39                rpm
 glibc-minimal-langpack             2.38-11.fc39                rpm     
 gmp                                1:6.2.1-5.fc39              rpm     
 gnupg2                             2.4.3-4.fc39                rpm     
-gnutls                             3.8.1-1.fc39                rpm     
+gnutls                             3.8.2-1.fc39                rpm     
 gpg-pubkey                         18b8e74c-62f2920f           rpm     
 grep                               3.11-3.fc39                 rpm     
 gzip                               1.12-6.fc39                 rpm     
@@ -55,7 +55,7 @@ libb2                              0.98.1-9.fc39               rpm
 libblkid                           2.39.2-1.fc39               rpm     
 libbrotli                          1.1.0-1.fc39                rpm     
 libbsd                             0.11.7-5.fc39               rpm     
-libcap                             2.48-7.fc39                 rpm     
+libcap                             2.48-8.fc39                 rpm     
 libcap-ng                          0.8.3-8.fc39                rpm     
 libcom_err                         1.47.0-2.fc39               rpm     
 libcomps                           0.1.20                      python  
@@ -144,7 +144,7 @@ setup                              2.14.4-1.fc39               rpm
 shadow-utils                       2:4.14.0-2.fc39             rpm     
 sqlite-libs                        3.42.0-7.fc39               rpm     
 sudo                               1.9.14-1.p3.fc39            rpm     
-systemd-libs                       254.5-2.fc39                rpm     
+systemd-libs                       254.7-1.fc39                rpm     
 tar                                2:1.35-2.fc39               rpm     
 tpm2-tss                           4.0.1-4.fc39                rpm     
 tzdata                             2023c-2.fc39                rpm     
