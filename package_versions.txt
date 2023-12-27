@@ -91,7 +91,7 @@ libsemanage                        3.5-2.fc38                   rpm
 libsepol                           3.5-1.fc38                   rpm     
 libsigsegv                         2.14-4.fc38                  rpm     
 libsmartcols                       2.38.1-4.fc38                rpm     
-libsolv                            0.7.25-1.fc38                rpm     
+libsolv                            0.7.27-1.fc38                rpm     
 libssh                             0.10.5-1.fc38                rpm     
 libssh-config                      0.10.5-1.fc38                rpm     
 libstdc++                          13.2.1-4.fc38                rpm     
@@ -148,7 +148,7 @@ setup                              2.14.3-2.fc38                rpm
 shadow-utils                       2:4.13-6.fc38                rpm     
 sqlite-libs                        3.40.1-2.fc38                rpm     
 sudo                               1.9.13-2.p2.fc38             rpm     
-systemd-libs                       253.13-1.fc38                rpm     
+systemd-libs                       253.14-1.fc38                rpm     
 tar                                2:1.34-8.fc38                rpm     
 tpm2-tss                           4.0.1-3.fc38                 rpm     
 tzdata                             2023c-1.fc38                 rpm     
