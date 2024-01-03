@@ -57,7 +57,7 @@ libb2                              0.98.1-8.fc38                rpm
 libblkid                           2.38.1-4.fc38                rpm     
 libbrotli                          1.0.9-11.fc38                rpm     
 libbsd                             0.11.7-4.fc38                rpm     
-libcap                             2.48-7.fc38                  rpm     
+libcap                             2.48-8.fc38                  rpm     
 libcap-ng                          0.8.3-8.fc38                 rpm     
 libcom_err                         1.46.5-4.fc38                rpm     
 libcomps                           0.1.20                       python  
