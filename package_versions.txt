@@ -147,7 +147,7 @@ sudo                               1.9.15-1.p5.fc39            rpm
 systemd-libs                       254.8-2.fc39                rpm     
 tar                                2:1.35-2.fc39               rpm     
 tpm2-tss                           4.0.1-6.fc39                rpm     
-tzdata                             2023d-1.fc39                rpm     
+tzdata                             2024a-2.fc39                rpm     
 util-linux-core                    2.39.3-4.fc39               rpm     
 vim-data                           2:9.1.031-1.fc39            rpm     
 vim-minimal                        2:9.1.031-1.fc39            rpm     
