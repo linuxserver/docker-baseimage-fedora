@@ -38,7 +38,7 @@ glibc-common                       2.37-18.fc38                 rpm
 glibc-minimal-langpack             2.37-18.fc38                 rpm       
 gmp                                1:6.2.1-4.fc38               rpm       
 gnupg2                             2.4.0-3.fc38                 rpm       
-gnutls                             3.8.3-1.fc38                 rpm       
+gnutls                             3.8.4-1.fc38                 rpm       
 gpg-pubkey                         eb10b464-6202d9c6            rpm       
 gpgme                              1.17.1-5.fc38                rpm       
 grep                               3.8-3.fc38                   rpm       
@@ -148,7 +148,7 @@ setup                              2.14.3-2.fc38                rpm
 shadow-utils                       2:4.13-6.fc38                rpm       
 sqlite-libs                        3.40.1-2.fc38                rpm       
 sudo                               1.9.15-1.p5.fc38             rpm       
-systemd-libs                       253.15-2.fc38                rpm       
+systemd-libs                       253.17-1.fc38                rpm       
 tar                                2:1.34-8.fc38                rpm       
 tpm2-tss                           4.0.1-3.fc38                 rpm       
 tzdata                             2024a-1.fc38                 rpm       
