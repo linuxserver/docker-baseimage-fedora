@@ -54,7 +54,7 @@ libattr                            2.5.1-8.fc39                rpm
 libb2                              0.98.1-9.fc39               rpm       
 libblkid                           2.39.3-6.fc39               rpm       
 libbrotli                          1.1.0-1.fc39                rpm       
-libbsd                             0.11.7-5.fc39               rpm       
+libbsd                             0.12.2-1.fc39               rpm       
 libcap                             2.48-9.fc39                 rpm       
 libcap-ng                          0.8.3-8.fc39                rpm       
 libcom_err                         1.47.0-2.fc39               rpm       
