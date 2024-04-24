@@ -32,12 +32,12 @@ findutils                          1:4.9.0-5.fc39              rpm
 gawk                               5.2.2-2.fc39                rpm       
 gdbm-libs                          1:1.23-4.fc39               rpm       
 glib2                              2.78.3-1.fc39               rpm       
-glibc                              2.38-17.fc39                rpm       
-glibc-common                       2.38-17.fc39                rpm       
-glibc-minimal-langpack             2.38-17.fc39                rpm       
+glibc                              2.38-18.fc39                rpm       
+glibc-common                       2.38-18.fc39                rpm       
+glibc-minimal-langpack             2.38-18.fc39                rpm       
 gmp                                1:6.2.1-5.fc39              rpm       
 gnupg2                             2.4.4-1.fc39                rpm       
-gnutls                             3.8.4-1.fc39                rpm       
+gnutls                             3.8.5-1.fc39                rpm       
 gpg-pubkey                         18b8e74c-62f2920f           rpm       
 grep                               3.11-3.fc39                 rpm       
 gzip                               1.12-6.fc39                 rpm       
@@ -77,7 +77,7 @@ libksba                            1.6.4-2.fc39                rpm
 libmd                              1.1.0-2.fc39                rpm       
 libmodulemd                        2.15.0-5.fc39               rpm       
 libmount                           2.39.4-1.fc39               rpm       
-libnghttp2                         1.55.1-4.fc39               rpm       
+libnghttp2                         1.55.1-5.fc39               rpm       
 libnsl2                            2.0.0-6.fc39                rpm       
 libpsl                             0.21.2-4.fc39               rpm       
 libpwquality                       1.4.5-6.fc39                rpm       
@@ -123,7 +123,7 @@ pcre2-syntax                       10.42-1.fc39.2              rpm
 popt                               1.19-3.fc39                 rpm       
 procps-ng                          4.0.3-5.fc39                rpm       
 publicsuffix-list-dafsa            20240107-1.fc39             rpm       
-python-pip-wheel                   23.2.1-1.fc39               rpm       
+python-pip-wheel                   23.2.1-2.fc39               rpm       
 python3                            3.12.2-2.fc39               rpm       
 python3-dnf                        4.19.2-1.fc39               rpm       
 python3-hawkey                     0.73.1-1.fc39               rpm       
@@ -149,8 +149,8 @@ tar                                2:1.35-2.fc39               rpm
 tpm2-tss                           4.0.1-6.fc39                rpm       
 tzdata                             2024a-2.fc39                rpm       
 util-linux-core                    2.39.4-1.fc39               rpm       
-vim-data                           2:9.1.264-1.fc39            rpm       
-vim-minimal                        2:9.1.264-1.fc39            rpm       
+vim-data                           2:9.1.309-1.fc39            rpm       
+vim-minimal                        2:9.1.309-1.fc39            rpm       
 which                              2.21-40.fc39                rpm       
 xz-libs                            5.4.4-1.fc39                rpm       
 yum                                4.19.2-1.fc39               rpm       
