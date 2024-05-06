@@ -9,6 +9,7 @@ busybox                            1:1.36.1-7.fc40             rpm
 bzip2                              1.0.8-18.fc40               rpm       
 bzip2-libs                         1.0.8-18.fc40               rpm       
 ca-certificates                    2023.2.62_v7.0.401-6.fc40   rpm       
+catatonit                          0.1.7-22.fc40               rpm       
 coreutils                          9.4-6.fc40                  rpm       
 coreutils-common                   9.4-6.fc40                  rpm       
 cracklib                           2.9.11-5.fc40               rpm       
@@ -45,7 +46,7 @@ grep                               3.11-7.fc40                 rpm
 gzip                               1.13-1.fc40                 rpm       
 hostname                           3.23-12.fc40                rpm       
 ima-evm-utils                      1.5-4.fc40                  rpm       
-jq                                 1.7.1-4.fc40                rpm       
+jq                                 1.7.1-7.fc40                rpm       
 json-c                             0.17-3.fc40                 rpm       
 keyutils-libs                      1.6.3-3.fc40                rpm       
 krb5-libs                          1.21.2-5.fc40               rpm       
@@ -56,7 +57,7 @@ libattr                            2.5.2-3.fc40                rpm
 libb2                              0.98.1-11.fc40              rpm       
 libblkid                           2.40-0.9.rc1.fc40           rpm       
 libbrotli                          1.1.0-3.fc40                rpm       
-libbsd                             0.12.2-1.fc40               rpm       
+libbsd                             0.12.2-3.fc40               rpm       
 libcap                             2.69-3.fc40                 rpm       
 libcap-ng                          0.8.4-4.fc40                rpm       
 libcom_err                         1.47.0-5.fc40               rpm       
