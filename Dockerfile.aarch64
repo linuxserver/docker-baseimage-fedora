@@ -70,6 +70,7 @@ RUN \
   dnf -y --setopt=install_weak_deps=False --best install \
     busybox \
     ca-certificates \
+    catatonit \
     coreutils \
     curl \
     findutils \
