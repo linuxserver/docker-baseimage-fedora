@@ -54,7 +54,7 @@ libattr                            2.5.1-8.fc39                rpm
 libb2                              0.98.1-9.fc39               rpm       
 libblkid                           2.39.4-1.fc39               rpm       
 libbrotli                          1.1.0-1.fc39                rpm       
-libbsd                             0.12.2-1.fc39               rpm       
+libbsd                             0.12.2-3.fc39               rpm       
 libcap                             2.48-9.fc39                 rpm       
 libcap-ng                          0.8.3-8.fc39                rpm       
 libcom_err                         1.47.0-2.fc39               rpm       
@@ -124,12 +124,12 @@ popt                               1.19-3.fc39                 rpm
 procps-ng                          4.0.3-5.fc39                rpm       
 publicsuffix-list-dafsa            20240107-1.fc39             rpm       
 python-pip-wheel                   23.2.1-2.fc39               rpm       
-python3                            3.12.2-2.fc39               rpm       
+python3                            3.12.3-2.fc39               rpm       
 python3-dnf                        4.19.2-1.fc39               rpm       
 python3-hawkey                     0.73.1-1.fc39               rpm       
 python3-libcomps                   0.1.20-1.fc39               rpm       
 python3-libdnf                     0.73.1-1.fc39               rpm       
-python3-libs                       3.12.2-2.fc39               rpm       
+python3-libs                       3.12.3-2.fc39               rpm       
 python3-rpm                        4.19.1.1-1.fc39             rpm       
 readline                           8.2-6.fc39                  rpm       
 rootfiles                          8.1-34.fc39                 rpm       
@@ -149,8 +149,8 @@ tar                                2:1.35-2.fc39               rpm
 tpm2-tss                           4.0.1-6.fc39                rpm       
 tzdata                             2024a-2.fc39                rpm       
 util-linux-core                    2.39.4-1.fc39               rpm       
-vim-data                           2:9.1.309-1.fc39            rpm       
-vim-minimal                        2:9.1.309-1.fc39            rpm       
+vim-data                           2:9.1.354-1.fc39            rpm       
+vim-minimal                        2:9.1.354-1.fc39            rpm       
 which                              2.21-40.fc39                rpm       
 xz-libs                            5.4.4-1.fc39                rpm       
 yum                                4.19.2-1.fc39               rpm       
