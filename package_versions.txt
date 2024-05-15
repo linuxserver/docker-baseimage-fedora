@@ -149,8 +149,8 @@ tar                                2:1.35-2.fc39               rpm
 tpm2-tss                           4.0.1-6.fc39                rpm       
 tzdata                             2024a-2.fc39                rpm       
 util-linux-core                    2.39.4-1.fc39               rpm       
-vim-data                           2:9.1.354-1.fc39            rpm       
-vim-minimal                        2:9.1.354-1.fc39            rpm       
+vim-data                           2:9.1.393-1.fc39            rpm       
+vim-minimal                        2:9.1.393-1.fc39            rpm       
 which                              2.21-40.fc39                rpm       
 xz-libs                            5.4.4-1.fc39                rpm       
 yum                                4.19.2-1.fc39               rpm       
