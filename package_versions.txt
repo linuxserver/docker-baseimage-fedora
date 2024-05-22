@@ -31,7 +31,7 @@ filesystem                         3.18-6.fc39                 rpm
 findutils                          1:4.9.0-5.fc39              rpm       
 gawk                               5.2.2-2.fc39                rpm       
 gdbm-libs                          1:1.23-4.fc39               rpm       
-glib2                              2.78.3-1.fc39               rpm       
+glib2                              2.78.6-1.fc39               rpm       
 glibc                              2.38-18.fc39                rpm       
 glibc-common                       2.38-18.fc39                rpm       
 glibc-minimal-langpack             2.38-18.fc39                rpm       
@@ -146,7 +146,7 @@ sqlite-libs                        3.42.0-7.fc39               rpm
 sudo                               1.9.15-1.p5.fc39            rpm       
 systemd-libs                       254.10-1.fc39               rpm       
 tar                                2:1.35-2.fc39               rpm       
-tpm2-tss                           4.0.1-6.fc39                rpm       
+tpm2-tss                           4.0.2-1.fc39                rpm       
 tzdata                             2024a-2.fc39                rpm       
 util-linux-core                    2.39.4-1.fc39               rpm       
 vim-data                           2:9.1.393-1.fc39            rpm       
