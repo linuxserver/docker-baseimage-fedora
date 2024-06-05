@@ -137,14 +137,14 @@ rpm                                4.19.1.1                    python
 rpm                                4.19.1.1-1.fc39             rpm       
 rpm-build-libs                     4.19.1.1-1.fc39             rpm       
 rpm-libs                           4.19.1.1-1.fc39             rpm       
-rpm-sequoia                        1.6.0-1.fc39                rpm       
+rpm-sequoia                        1.6.0-3.fc39                rpm       
 rpm-sign-libs                      4.19.1.1-1.fc39             rpm       
 sed                                4.8-14.fc39                 rpm       
 setup                              2.14.4-1.fc39               rpm       
 shadow-utils                       2:4.14.0-2.fc39             rpm       
 sqlite-libs                        3.42.0-7.fc39               rpm       
 sudo                               1.9.15-1.p5.fc39            rpm       
-systemd-libs                       254.12-1.fc39               rpm       
+systemd-libs                       254.13-1.fc39               rpm       
 tar                                2:1.35-2.fc39               rpm       
 tpm2-tss                           4.0.2-1.fc39                rpm       
 tzdata                             2024a-2.fc39                rpm       
