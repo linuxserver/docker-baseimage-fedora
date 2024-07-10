@@ -30,7 +30,7 @@ fedora-release-identity-container  40-38                       rpm
 fedora-repos                       40-1                        rpm       
 file-libs                          5.45-4.fc40                 rpm       
 filesystem                         3.18-8.fc40                 rpm       
-findutils                          1:4.9.0-8.fc40              rpm       
+findutils                          1:4.9.0-9.fc40              rpm       
 gawk                               5.3.0-3.fc40                rpm       
 gdbm                               1:1.23-6.fc40               rpm       
 gdbm-libs                          1:1.23-6.fc40               rpm       
