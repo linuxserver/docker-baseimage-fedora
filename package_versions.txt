@@ -137,7 +137,7 @@ rpm                                4.19.1.1                    python
 rpm                                4.19.1.1-1.fc39             rpm                     
 rpm-build-libs                     4.19.1.1-1.fc39             rpm                     
 rpm-libs                           4.19.1.1-1.fc39             rpm                     
-rpm-sequoia                        1.6.0-3.fc39                rpm                     
+rpm-sequoia                        1.7.0-1.fc39                rpm                     
 rpm-sign-libs                      4.19.1.1-1.fc39             rpm                     
 sed                                4.8-14.fc39                 rpm                     
 setup                              2.14.4-1.fc39               rpm                     
