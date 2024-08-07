@@ -93,7 +93,7 @@ libssh                             0.10.6-2.fc39               rpm
 libssh-config                      0.10.6-2.fc39               rpm                     
 libstdc++                          13.3.1-1.fc39               rpm                     
 libtasn1                           4.19.0-3.fc39               rpm                     
-libtirpc                           1.3.4-1.rc3.fc39            rpm     (+1 duplicate)  
+libtirpc                           1.3.5-0.fc39                rpm     (+1 duplicate)  
 libtool-ltdl                       2.4.7-7.fc39                rpm                     
 libunistring                       1.1-5.fc39                  rpm                     
 libuuid                            2.39.4-1.fc39               rpm                     
@@ -144,7 +144,7 @@ setup                              2.14.4-1.fc39               rpm
 shadow-utils                       2:4.14.0-2.fc39             rpm                     
 sqlite-libs                        3.42.0-7.fc39               rpm                     
 sudo                               1.9.15-1.p5.fc39            rpm                     
-systemd-libs                       254.14-1.fc39               rpm                     
+systemd-libs                       254.16-1.fc39               rpm                     
 tar                                2:1.35-2.fc39               rpm                     
 tpm2-tss                           4.0.2-1.fc39                rpm                     
 tzdata                             2024a-2.fc39                rpm                     
@@ -154,5 +154,5 @@ vim-minimal                        2:9.1.571-1.fc39            rpm
 which                              2.21-40.fc39                rpm                     
 xz-libs                            5.4.4-1.fc39                rpm                     
 yum                                4.21.0-1.fc39               rpm                     
-zchunk-libs                        1.4.0-1.fc39                rpm                     
+zchunk-libs                        1.5.1-1.fc39                rpm                     
 zlib                               1.2.13-4.fc39               rpm                     
