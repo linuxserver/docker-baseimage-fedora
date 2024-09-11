@@ -14,9 +14,9 @@ cracklib                           2.9.11-2.fc39               rpm
 crypto-policies                    20231204-1.git1e3a2e4.fc39  rpm                     
 curl                               8.2.1-5.fc39                rpm                     
 cyrus-sasl-lib                     2.1.28-11.fc39              rpm                     
-dnf                                4.21.0                      python                  
-dnf                                4.21.0-1.fc39               rpm                     
-dnf-data                           4.21.0-1.fc39               rpm                     
+dnf                                4.21.1                      python                  
+dnf                                4.21.1-1.fc39               rpm                     
+dnf-data                           4.21.1-1.fc39               rpm                     
 elfutils-default-yama-scope        0.191-2.fc39                rpm                     
 elfutils-libelf                    0.191-2.fc39                rpm                     
 elfutils-libs                      0.191-2.fc39                rpm                     
@@ -62,8 +62,8 @@ libcomps                           0.1.20                      python
 libcomps                           0.1.20-1.fc39               rpm                     
 libcurl                            8.2.1-5.fc39                rpm                     
 libdb                              5.3.28-56.fc39              rpm                     
-libdnf                             0.73.2                      python                  
-libdnf                             0.73.2-1.fc39               rpm                     
+libdnf                             0.73.3                      python                  
+libdnf                             0.73.3-1.fc39               rpm                     
 libeconf                           0.5.2-2.fc39                rpm                     
 libevent                           2.1.12-9.fc39               rpm                     
 libffi                             3.4.4-4.fc39                rpm                     
@@ -81,7 +81,7 @@ libnghttp2                         1.55.1-5.fc39               rpm
 libnsl2                            2.0.0-6.fc39                rpm                     
 libpsl                             0.21.2-4.fc39               rpm                     
 libpwquality                       1.4.5-6.fc39                rpm                     
-librepo                            1.18.0-1.fc39               rpm                     
+librepo                            1.18.1-1.fc39               rpm                     
 libretls                           3.8.1-1.fc39                rpm                     
 libselinux                         3.5-5.fc39                  rpm                     
 libsemanage                        3.5-4.fc39                  rpm                     
@@ -125,10 +125,10 @@ procps-ng                          4.0.3-5.fc39                rpm
 publicsuffix-list-dafsa            20240107-1.fc39             rpm                     
 python-pip-wheel                   23.2.1-2.fc39               rpm                     
 python3                            3.12.5-1.fc39               rpm                     
-python3-dnf                        4.21.0-1.fc39               rpm                     
-python3-hawkey                     0.73.2-1.fc39               rpm                     
+python3-dnf                        4.21.1-1.fc39               rpm                     
+python3-hawkey                     0.73.3-1.fc39               rpm                     
 python3-libcomps                   0.1.20-1.fc39               rpm                     
-python3-libdnf                     0.73.2-1.fc39               rpm                     
+python3-libdnf                     0.73.3-1.fc39               rpm                     
 python3-libs                       3.12.5-1.fc39               rpm                     
 python3-rpm                        4.19.1.1-1.fc39             rpm                     
 readline                           8.2-6.fc39                  rpm                     
@@ -153,6 +153,6 @@ vim-data                           2:9.1.672-1.fc39            rpm
 vim-minimal                        2:9.1.672-1.fc39            rpm                     
 which                              2.21-40.fc39                rpm                     
 xz-libs                            5.4.4-1.fc39                rpm                     
-yum                                4.21.0-1.fc39               rpm                     
+yum                                4.21.1-1.fc39               rpm                     
 zchunk-libs                        1.5.1-1.fc39                rpm                     
 zlib                               1.2.13-4.fc39               rpm                     
