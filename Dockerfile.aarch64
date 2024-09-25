@@ -22,7 +22,7 @@ RUN \
   mkdir /root-out && \
   git clone --depth 1 -b ${FEDORA_VERSION} https://github.com/fedora-cloud/docker-brew-fedora.git && \
   tar xf \
-    docker-brew-fedora/${ARCH}/layer.tar -C \
+    docker-brew-fedora/${ARCH}/fedora-*.tar -C \
     /root-out && \
   sed -i -e 's/^root::/root:!:/' /root-out/etc/shadow
 
