@@ -113,7 +113,7 @@ nettle                             3.9.1-2.fc39                rpm
 npth                               1.6-14.fc39                 rpm                     
 oniguruma                          6.9.9-1.fc39                rpm                     
 openldap                           2.6.7-1.fc39                rpm                     
-openssl-libs                       1:3.1.4-3.fc39              rpm                     
+openssl-libs                       1:3.1.4-4.fc39              rpm                     
 p11-kit                            0.25.5-1.fc39               rpm                     
 p11-kit-trust                      0.25.5-1.fc39               rpm                     
 pam                                1.5.3-3.fc39                rpm                     
