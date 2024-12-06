@@ -7,7 +7,8 @@ custom_version_command: "echo 40"
 release_type: stable
 release_tag: "40"
 ls_branch: master
-build_armhf: false
+image_sbom: true
+image_provenance: true
 repo_vars:
   - BUILD_VERSION_ARG = 'FEDORA_VERSION'
   - LS_USER = 'linuxserver'
