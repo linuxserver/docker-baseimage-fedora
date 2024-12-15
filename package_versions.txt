@@ -35,9 +35,9 @@ gawk                               5.3.0-3.fc40                 rpm
 gdbm                               1:1.23-6.fc40                rpm                     
 gdbm-libs                          1:1.23-6.fc40                rpm                     
 glib2                              2.80.3-1.fc40                rpm                     
-glibc                              2.39-22.fc40                 rpm                     
-glibc-common                       2.39-22.fc40                 rpm                     
-glibc-minimal-langpack             2.39-22.fc40                 rpm                     
+glibc                              2.39-30.fc40                 rpm                     
+glibc-common                       2.39-30.fc40                 rpm                     
+glibc-minimal-langpack             2.39-30.fc40                 rpm                     
 gmp                                1:6.2.1-8.fc40               rpm                     
 gnupg2                             2.4.4-1.fc40                 rpm                     
 gnutls                             3.8.6-1.fc40                 rpm                     
