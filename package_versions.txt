@@ -35,9 +35,9 @@ gawk                               5.3.0-3.fc40                 rpm
 gdbm                               1:1.23-6.fc40                rpm                     
 gdbm-libs                          1:1.23-6.fc40                rpm                     
 glib2                              2.80.3-1.fc40                rpm                     
-glibc                              2.39-30.fc40                 rpm                     
-glibc-common                       2.39-30.fc40                 rpm                     
-glibc-minimal-langpack             2.39-30.fc40                 rpm                     
+glibc                              2.39-32.fc40                 rpm                     
+glibc-common                       2.39-32.fc40                 rpm                     
+glibc-minimal-langpack             2.39-32.fc40                 rpm                     
 gmp                                1:6.2.1-8.fc40               rpm                     
 gnupg2                             2.4.4-1.fc40                 rpm                     
 gnutls                             3.8.6-1.fc40                 rpm                     
@@ -113,7 +113,7 @@ netcat                             1.228-1.fc40                 rpm
 nettle                             3.9.1-6.fc40                 rpm                     
 npth                               1.7-1.fc40                   rpm                     
 oniguruma                          6.9.9-3.fc40                 rpm                     
-openldap                           2.6.7-1.fc40                 rpm                     
+openldap                           2.6.8-1.fc40                 rpm                     
 openssl-libs                       1:3.2.2-3.fc40               rpm                     
 p11-kit                            0.25.5-1.fc40                rpm                     
 p11-kit-trust                      0.25.5-1.fc40                rpm                     
@@ -150,8 +150,8 @@ tar                                2:1.35-3.fc40                rpm
 tpm2-tss                           4.1.3-1.fc40                 rpm                     
 tzdata                             2024a-5.fc40                 rpm                     
 util-linux-core                    2.40.2-1.fc40                rpm                     
-vim-data                           2:9.1.906-1.fc40             rpm                     
-vim-minimal                        2:9.1.906-1.fc40             rpm                     
+vim-data                           2:9.1.919-1.fc40             rpm                     
+vim-minimal                        2:9.1.919-1.fc40             rpm                     
 which                              2.21-41.fc40                 rpm                     
 xz                                 1:5.4.6-3.fc40               rpm                     
 xz-libs                            1:5.4.6-3.fc40               rpm                     
