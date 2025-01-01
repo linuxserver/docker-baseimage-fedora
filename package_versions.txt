@@ -99,7 +99,7 @@ libtool-ltdl                       2.4.7-10.fc40                rpm
 libunistring                       1.1-7.fc40                   rpm                     
 libuuid                            2.40.2-1.fc40                rpm                     
 libverto                           0.3.2-8.fc40                 rpm                     
-libxcrypt                          4.4.36-11.fc40               rpm                     
+libxcrypt                          4.4.36-12.fc40               rpm                     
 libxml2                            2.12.8-1.fc40                rpm                     
 libyaml                            0.2.5-14.fc40                rpm                     
 libzstd                            1.5.6-1.fc40                 rpm                     
@@ -125,12 +125,12 @@ popt                               1.19-6.fc40                  rpm
 procps-ng                          4.0.4-3.fc40                 rpm                     
 publicsuffix-list-dafsa            20240107-3.fc40              rpm                     
 python-pip-wheel                   23.3.2-2.fc40                rpm                     
-python3                            3.12.7-1.fc40                rpm                     
+python3                            3.12.8-2.fc40                rpm                     
 python3-dnf                        4.22.0-1.fc40                rpm                     
 python3-hawkey                     0.73.4-1.fc40                rpm                     
 python3-libcomps                   0.1.20-5.fc40                rpm                     
 python3-libdnf                     0.73.4-1.fc40                rpm                     
-python3-libs                       3.12.7-1.fc40                rpm                     
+python3-libs                       3.12.8-2.fc40                rpm                     
 python3-rpm                        4.19.1.1-1.fc40              rpm                     
 readline                           8.2-8.fc40                   rpm                     
 rootfiles                          8.1-36.fc40                  rpm                     
