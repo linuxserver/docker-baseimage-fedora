@@ -3,12 +3,10 @@
 # jenkins variables
 project_name: docker-baseimage-fedora
 external_type: na
-custom_version_command: "echo 40"
+custom_version_command: "echo 41"
 release_type: stable
-release_tag: "40"
+release_tag: "41"
 ls_branch: master
-image_sbom: true
-image_provenance: true
 repo_vars:
   - BUILD_VERSION_ARG = 'FEDORA_VERSION'
   - LS_USER = 'linuxserver'
