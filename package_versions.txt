@@ -14,7 +14,7 @@ coreutils                          9.5-11.fc41                  rpm
 coreutils-common                   9.5-11.fc41                  rpm                   
 cracklib                           2.9.11-6.fc41                rpm                   
 crypto-policies                    20241029-1.git8baf557.fc41   rpm                   
-curl                               8.9.1-3.fc41                 rpm                   
+curl                               8.9.1-2.fc41                 rpm                   
 cyrus-sasl-lib                     2.1.28-27.fc41               rpm                   
 dnf5                               5.2.8.1-2.fc41               rpm                   
 dnf5-plugins                       5.2.8.1-2.fc41               rpm                   
@@ -56,7 +56,7 @@ libbsd                             0.12.2-4.fc41                rpm
 libcap                             2.70-4.fc41                  rpm                   
 libcap-ng                          0.8.5-3.fc41                 rpm                   
 libcom_err                         1.47.1-6.fc41                rpm                   
-libcurl                            8.9.1-3.fc41                 rpm                   
+libcurl                            8.9.1-2.fc41                 rpm                   
 libdnf5                            5.2.8.1-2.fc41               rpm                   
 libdnf5-cli                        5.2.8.1-2.fc41               rpm                   
 libeconf                           0.6.2-3.fc41                 rpm                   
