@@ -94,12 +94,12 @@ libssh                             0.10.6-5.fc40                rpm
 libssh-config                      0.10.6-5.fc40                rpm                     
 libstdc++                          14.2.1-3.fc40                rpm                     
 libtasn1                           4.19.0-6.fc40                rpm                     
-libtirpc                           1.3.6-1.fc40                 rpm     (+1 duplicate)  
+libtirpc                           1.3.6-1.rc3.fc40             rpm     (+1 duplicate)  
 libtool-ltdl                       2.4.7-10.fc40                rpm                     
 libunistring                       1.1-7.fc40                   rpm                     
 libuuid                            2.40.2-1.fc40                rpm                     
 libverto                           0.3.2-8.fc40                 rpm                     
-libxcrypt                          4.4.37-1.fc40                rpm                     
+libxcrypt                          4.4.37-4.fc40                rpm                     
 libxml2                            2.12.9-1.fc40                rpm                     
 libyaml                            0.2.5-14.fc40                rpm                     
 libzstd                            1.5.6-1.fc40                 rpm                     
@@ -109,7 +109,7 @@ mpdecimal                          2.5.1-9.fc40                 rpm
 mpfr                               4.2.1-4.fc40                 rpm                     
 ncurses-base                       6.4-12.20240127.fc40         rpm                     
 ncurses-libs                       6.4-12.20240127.fc40         rpm                     
-netcat                             1.228-1.fc40                 rpm                     
+netcat                             1.229-1.fc40                 rpm                     
 nettle                             3.9.1-6.fc40                 rpm                     
 npth                               1.7-1.fc40                   rpm                     
 oniguruma                          6.9.9-3.fc40                 rpm                     
@@ -145,10 +145,10 @@ setup                              2.14.5-2.fc40                rpm
 shadow-utils                       2:4.15.1-4.fc40              rpm                     
 sqlite-libs                        3.45.1-2.fc40                rpm                     
 sudo                               1.9.15-2.p5.fc40             rpm                     
-systemd-libs                       255.15-1.fc40                rpm                     
+systemd-libs                       255.16-1.fc40                rpm                     
 tar                                2:1.35-3.fc40                rpm                     
 tpm2-tss                           4.1.3-1.fc40                 rpm                     
-tzdata                             2024a-5.fc40                 rpm                     
+tzdata                             2024b-1.fc40                 rpm                     
 util-linux-core                    2.40.2-1.fc40                rpm                     
 vim-data                           2:9.1.984-1.fc40             rpm                     
 vim-minimal                        2:9.1.984-1.fc40             rpm                     
