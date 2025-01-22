@@ -150,8 +150,8 @@ tar                                2:1.35-3.fc40                rpm
 tpm2-tss                           4.1.3-1.fc40                 rpm                     
 tzdata                             2024b-1.fc40                 rpm                     
 util-linux-core                    2.40.2-1.fc40                rpm                     
-vim-data                           2:9.1.984-1.fc40             rpm                     
-vim-minimal                        2:9.1.984-1.fc40             rpm                     
+vim-data                           2:9.1.1000-1.fc40            rpm                     
+vim-minimal                        2:9.1.1000-1.fc40            rpm                     
 which                              2.21-41.fc40                 rpm                     
 xz                                 1:5.4.6-3.fc40               rpm                     
 xz-libs                            1:5.4.6-3.fc40               rpm                     
