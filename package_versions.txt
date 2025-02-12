@@ -125,7 +125,7 @@ sqlite-libs                        3.46.1-1.fc41                rpm
 sudo                               1.9.15-5.p5.fc41             rpm                   
 systemd-libs                       256.11-1.fc41                rpm                   
 tar                                2:1.35-4.fc41                rpm                   
-tzdata                             2024b-1.fc41                 rpm                   
+tzdata                             2025a-1.fc41                 rpm                   
 util-linux-core                    2.40.4-1.fc41                rpm                   
 vim-data                           2:9.1.1000-1.fc41            rpm                   
 vim-minimal                        2:9.1.1000-1.fc41            rpm                   
