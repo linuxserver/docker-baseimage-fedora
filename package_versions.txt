@@ -10,8 +10,8 @@ bzip2                              1.0.8-20.fc42               rpm
 bzip2-libs                         1.0.8-20.fc42               rpm     
 ca-certificates                    2024.2.69_v8.0.401-6.fc42   rpm     
 catatonit                          0.2.1-1.fc42                rpm     
-coreutils                          9.6-2.fc42                  rpm     
-coreutils-common                   9.6-2.fc42                  rpm     
+coreutils                          9.6-3.fc42                  rpm     
+coreutils-common                   9.6-3.fc42                  rpm     
 cracklib                           2.9.11-7.fc42               rpm     
 crypto-policies                    20250214-1.gitff7551b.fc42  rpm     
 curl                               8.11.1-4.fc42               rpm     
