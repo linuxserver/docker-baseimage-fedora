@@ -26,7 +26,7 @@ fedora-release-common              42-26                       rpm
 fedora-release-container           42-26                       rpm     
 fedora-release-identity-container  42-26                       rpm     
 fedora-repos                       42-1                        rpm     
-file-libs                          5.46-1.fc42                 rpm     
+file-libs                          5.46-3.fc42                 rpm     
 filesystem                         3.18-42.fc42                rpm     
 findutils                          1:4.10.0-5.fc42             rpm     
 fmt                                11.1.4-1.fc42               rpm     
@@ -73,8 +73,8 @@ libpsl                             0.21.5-5.fc42               rpm
 libpwquality                       1.4.5-12.fc42               rpm     
 librepo                            1.19.0-3.fc42               rpm     
 libretls                           3.8.1-5.fc42                rpm     
-libselinux                         3.8-1.fc42                  rpm     
-libsemanage                        3.8-1.fc42                  rpm     
+libselinux                         3.8-2.fc42                  rpm     
+libsemanage                        3.8.1-2.fc42                rpm     
 libsepol                           3.8-1.fc42                  rpm     
 libsmartcols                       2.40.4-7.fc42               rpm     
 libsolv                            0.7.32-4.fc42               rpm     
@@ -91,7 +91,7 @@ libxcrypt                          4.4.38-7.fc42               rpm
 libxml2                            2.12.10-1.fc42              rpm     
 libyaml                            0.2.5-16.fc42               rpm     
 libzstd                            1.5.7-1.fc42                rpm     
-lua-libs                           5.4.7-3.fc42                rpm     
+lua-libs                           5.4.8-1.fc42                rpm     
 lz4-libs                           1.10.0-2.fc42               rpm     
 ncurses-base                       6.5-5.20250125.fc42         rpm     
 ncurses-libs                       6.5-5.20250125.fc42         rpm     
@@ -126,8 +126,8 @@ systemd-standalone-sysusers        257.6-1.fc42                rpm
 tar                                2:1.35-5.fc42               rpm     
 tzdata                             2025b-1.fc42                rpm     
 util-linux-core                    2.40.4-7.fc42               rpm     
-vim-data                           2:9.1.1418-1.fc42           rpm     
-vim-minimal                        2:9.1.1418-1.fc42           rpm     
+vim-data                           2:9.1.1435-1.fc42           rpm     
+vim-minimal                        2:9.1.1435-1.fc42           rpm     
 which                              2.23-1.fc42                 rpm     
 xz                                 1:5.8.1-2.fc42              rpm     
 xz-libs                            1:5.8.1-2.fc42              rpm     
