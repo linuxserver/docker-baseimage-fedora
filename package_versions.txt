@@ -45,7 +45,7 @@ hostname                           3.25-2.fc42                 rpm
 jq                                 1.7.1-11.fc42               rpm     
 json-c                             0.18-2.fc42                 rpm     
 keyutils-libs                      1.6.3-5.fc42                rpm     
-krb5-libs                          1.21.3-5.fc42               rpm     
+krb5-libs                          1.21.3-6.fc42               rpm     
 libacl                             2.3.2-3.fc42                rpm     
 libarchive                         3.7.7-4.fc42                rpm     
 libattr                            2.5.2-5.fc42                rpm     
