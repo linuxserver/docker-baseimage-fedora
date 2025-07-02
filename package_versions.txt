@@ -1,6 +1,6 @@
 NAME                               VERSION                      TYPE   
 alternatives                       1.31-1.fc41                  rpm     
-audit-libs                         4.0.5-1.fc41                 rpm     
+audit-libs                         4.0.5-2.fc41                 rpm     
 authselect                         1.5.0-8.fc41                 rpm     
 authselect-libs                    1.5.0-8.fc41                 rpm     
 basesystem                         11-21.fc41                   rpm     
@@ -34,9 +34,9 @@ gawk                               5.3.0-4.fc41                 rpm
 gdbm                               1:1.23-7.fc41                rpm     
 gdbm-libs                          1:1.23-7.fc41                rpm     
 glib2                              2.82.5-1.fc41                rpm     
-glibc                              2.40-25.fc41                 rpm     
-glibc-common                       2.40-25.fc41                 rpm     
-glibc-minimal-langpack             2.40-25.fc41                 rpm     
+glibc                              2.40-26.fc41                 rpm     
+glibc-common                       2.40-26.fc41                 rpm     
+glibc-minimal-langpack             2.40-26.fc41                 rpm     
 gmp                                1:6.3.0-2.fc41               rpm     
 gnutls                             3.8.9-2.fc41                 rpm     
 gpg-pubkey                         e99d6ad1-64d2612c            rpm     
