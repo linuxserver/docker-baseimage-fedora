@@ -78,7 +78,7 @@ libselinux                         3.8-2.fc42                  rpm
 libsemanage                        3.8.1-2.fc42                rpm     
 libsepol                           3.8-1.fc42                  rpm     
 libsmartcols                       2.40.4-7.fc42               rpm     
-libsolv                            0.7.33-1.fc42               rpm     
+libsolv                            0.7.34-1.fc42               rpm     
 libssh                             0.11.2-1.fc42               rpm     
 libssh-config                      0.11.2-1.fc42               rpm     
 libstdc++                          15.1.1-2.fc42               rpm     
@@ -88,7 +88,6 @@ libtool-ltdl                       2.5.4-4.fc42                rpm
 libunistring                       1.1-9.fc42                  rpm     
 libuuid                            2.40.4-7.fc42               rpm     
 libverto                           0.3.2-10.fc42               rpm     
-libwayland-client                  1.23.1-1.fc42               rpm     
 libxcrypt                          4.4.38-7.fc42               rpm     
 libxml2                            2.12.10-1.fc42              rpm     
 libyaml                            0.2.5-16.fc42               rpm     
@@ -102,7 +101,7 @@ netcat                             1.229-2.fc42                rpm
 nettle                             3.10.1-1.fc42               rpm     
 oniguruma                          6.9.10-2.fc42               rpm     
 openldap                           2.6.9-3.fc42                rpm     
-openssl-libs                       1:3.2.4-3.fc42              rpm     
+openssl-libs                       1:3.2.4-4.fc42              rpm     
 p11-kit                            0.25.5-5.fc42               rpm     
 p11-kit-trust                      0.25.5-5.fc42               rpm     
 pam                                1.7.0-6.fc42                rpm     
@@ -129,8 +128,8 @@ systemd-standalone-sysusers        257.7-1.fc42                rpm
 tar                                2:1.35-5.fc42               rpm     
 tzdata                             2025b-1.fc42                rpm     
 util-linux-core                    2.40.4-7.fc42               rpm     
-vim-data                           2:9.1.1537-1.fc42           rpm     
-vim-minimal                        2:9.1.1537-1.fc42           rpm     
+vim-data                           2:9.1.1552-1.fc42           rpm     
+vim-minimal                        2:9.1.1552-1.fc42           rpm     
 which                              2.23-2.fc42                 rpm     
 xz                                 1:5.8.1-2.fc42              rpm     
 xz-libs                            1:5.8.1-2.fc42              rpm     
