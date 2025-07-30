@@ -22,9 +22,9 @@ elfutils-default-yama-scope        0.193-2.fc41                 rpm
 elfutils-libelf                    0.193-2.fc41                 rpm     
 elfutils-libs                      0.193-2.fc41                 rpm     
 fedora-gpg-keys                    41-3                         rpm     
-fedora-release-common              41-32                        rpm     
-fedora-release-container           41-32                        rpm     
-fedora-release-identity-container  41-32                        rpm     
+fedora-release-common              41-33                        rpm     
+fedora-release-container           41-33                        rpm     
+fedora-release-identity-container  41-33                        rpm     
 fedora-repos                       41-3                         rpm     
 file-libs                          5.45-7.fc41                  rpm     
 filesystem                         3.18-23.fc41                 rpm     
