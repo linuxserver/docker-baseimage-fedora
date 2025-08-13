@@ -34,9 +34,9 @@ gawk                               5.3.1-1.fc42                rpm
 gdbm                               1:1.23-9.fc42               rpm     
 gdbm-libs                          1:1.23-9.fc42               rpm     
 glib2                              2.84.3-1.fc42               rpm     
-glibc                              2.41-9.fc42                 rpm     
-glibc-common                       2.41-9.fc42                 rpm     
-glibc-minimal-langpack             2.41-9.fc42                 rpm     
+glibc                              2.41-10.fc42                rpm     
+glibc-common                       2.41-10.fc42                rpm     
+glibc-minimal-langpack             2.41-10.fc42                rpm     
 gmp                                1:6.3.0-4.fc42              rpm     
 gnutls                             3.8.10-1.fc42               rpm     
 gpg-pubkey                         105ef944-65ca83d1           rpm     
@@ -100,7 +100,7 @@ ncurses-libs                       6.5-5.20250125.fc42         rpm
 netcat                             1.229-2.fc42                rpm     
 nettle                             3.10.1-1.fc42               rpm     
 oniguruma                          6.9.10-2.fc42               rpm     
-openldap                           2.6.9-3.fc42                rpm     
+openldap                           2.6.10-1.fc42               rpm     
 openssl-libs                       1:3.2.4-4.fc42              rpm     
 p11-kit                            0.25.5-5.fc42               rpm     
 p11-kit-trust                      0.25.5-5.fc42               rpm     
@@ -128,8 +128,8 @@ systemd-standalone-sysusers        257.7-1.fc42                rpm
 tar                                2:1.35-5.fc42               rpm     
 tzdata                             2025b-1.fc42                rpm     
 util-linux-core                    2.40.4-7.fc42               rpm     
-vim-data                           2:9.1.1552-1.fc42           rpm     
-vim-minimal                        2:9.1.1552-1.fc42           rpm     
+vim-data                           2:9.1.1591-1.fc42           rpm     
+vim-minimal                        2:9.1.1591-1.fc42           rpm     
 which                              2.23-2.fc42                 rpm     
 xz                                 1:5.8.1-2.fc42              rpm     
 xz-libs                            1:5.8.1-2.fc42              rpm     
