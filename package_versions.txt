@@ -16,8 +16,8 @@ cracklib                           2.9.11-7.fc42               rpm
 crypto-policies                    20250707-1.gitad370a8.fc42  rpm     
 curl                               8.11.1-5.fc42               rpm     
 cyrus-sasl-lib                     2.1.28-30.fc42              rpm     
-dnf5                               5.2.15.0-2.fc42             rpm     
-dnf5-plugins                       5.2.15.0-2.fc42             rpm     
+dnf5                               5.2.16.0-1.fc42             rpm     
+dnf5-plugins                       5.2.16.0-1.fc42             rpm     
 elfutils-default-yama-scope        0.193-2.fc42                rpm     
 elfutils-libelf                    0.193-2.fc42                rpm     
 elfutils-libs                      0.193-2.fc42                rpm     
@@ -33,7 +33,7 @@ fmt                                11.1.4-1.fc42               rpm
 gawk                               5.3.1-1.fc42                rpm     
 gdbm                               1:1.23-9.fc42               rpm     
 gdbm-libs                          1:1.23-9.fc42               rpm     
-glib2                              2.84.3-1.fc42               rpm     
+glib2                              2.84.4-1.fc42               rpm     
 glibc                              2.41-10.fc42                rpm     
 glibc-common                       2.41-10.fc42                rpm     
 glibc-minimal-langpack             2.41-10.fc42                rpm     
@@ -57,13 +57,13 @@ libcap                             2.73-2.fc42                 rpm
 libcap-ng                          0.8.5-4.fc42                rpm     
 libcom_err                         1.47.2-3.fc42               rpm     
 libcurl                            8.11.1-5.fc42               rpm     
-libdnf5                            5.2.15.0-2.fc42             rpm     
-libdnf5-cli                        5.2.15.0-2.fc42             rpm     
+libdnf5                            5.2.16.0-1.fc42             rpm     
+libdnf5-cli                        5.2.16.0-1.fc42             rpm     
 libeconf                           0.7.6-2.fc42                rpm     
 libevent                           2.1.12-15.fc42              rpm     
 libffi                             3.4.6-5.fc42                rpm     
-libgcc                             15.1.1-2.fc42               rpm     
-libgomp                            15.1.1-2.fc42               rpm     
+libgcc                             15.2.1-1.fc42               rpm     
+libgomp                            15.2.1-1.fc42               rpm     
 libidn2                            2.3.8-1.fc42                rpm     
 libmd                              1.1.0-7.fc42                rpm     
 libmodulemd                        2.15.2-1.fc42               rpm     
@@ -81,7 +81,7 @@ libsmartcols                       2.40.4-7.fc42               rpm
 libsolv                            0.7.34-1.fc42               rpm     
 libssh                             0.11.2-1.fc42               rpm     
 libssh-config                      0.11.2-1.fc42               rpm     
-libstdc++                          15.1.1-2.fc42               rpm     
+libstdc++                          15.2.1-1.fc42               rpm     
 libtasn1                           4.20.0-1.fc42               rpm     
 libtirpc                           1.3.6-1.rc3.fc42.2          rpm     
 libtool-ltdl                       2.5.4-4.fc42                rpm     
@@ -128,8 +128,8 @@ systemd-standalone-sysusers        257.7-1.fc42                rpm
 tar                                2:1.35-5.fc42               rpm     
 tzdata                             2025b-1.fc42                rpm     
 util-linux-core                    2.40.4-7.fc42               rpm     
-vim-data                           2:9.1.1591-1.fc42           rpm     
-vim-minimal                        2:9.1.1591-1.fc42           rpm     
+vim-data                           2:9.1.1623-1.fc42           rpm     
+vim-minimal                        2:9.1.1623-1.fc42           rpm     
 which                              2.23-2.fc42                 rpm     
 xz                                 1:5.8.1-2.fc42              rpm     
 xz-libs                            1:5.8.1-2.fc42              rpm     
