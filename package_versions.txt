@@ -16,8 +16,8 @@ cracklib                           2.9.11-6.fc41                rpm
 crypto-policies                    20250707-1.git836bbee.fc41   rpm     
 curl                               8.9.1-3.fc41                 rpm     
 cyrus-sasl-lib                     2.1.28-27.fc41               rpm     
-dnf5                               5.2.15.0-2.fc41              rpm     
-dnf5-plugins                       5.2.15.0-2.fc41              rpm     
+dnf5                               5.2.16.0-1.fc41              rpm     
+dnf5-plugins                       5.2.16.0-1.fc41              rpm     
 elfutils-default-yama-scope        0.193-2.fc41                 rpm     
 elfutils-libelf                    0.193-2.fc41                 rpm     
 elfutils-libs                      0.193-2.fc41                 rpm     
@@ -57,8 +57,8 @@ libcap                             2.70-4.fc41                  rpm
 libcap-ng                          0.8.5-3.fc41                 rpm     
 libcom_err                         1.47.1-6.fc41                rpm     
 libcurl                            8.9.1-3.fc41                 rpm     
-libdnf5                            5.2.15.0-2.fc41              rpm     
-libdnf5-cli                        5.2.15.0-2.fc41              rpm     
+libdnf5                            5.2.16.0-1.fc41              rpm     
+libdnf5-cli                        5.2.16.0-1.fc41              rpm     
 libeconf                           0.6.2-3.fc41                 rpm     
 libevent                           2.1.12-14.fc41               rpm     
 libffi                             3.4.6-3.fc41                 rpm     
