@@ -34,9 +34,9 @@ gawk                               5.3.0-4.fc41                 rpm
 gdbm                               1:1.23-7.fc41                rpm     
 gdbm-libs                          1:1.23-7.fc41                rpm     
 glib2                              2.82.5-1.fc41                rpm     
-glibc                              2.40-27.fc41                 rpm     
-glibc-common                       2.40-27.fc41                 rpm     
-glibc-minimal-langpack             2.40-27.fc41                 rpm     
+glibc                              2.40-28.fc41                 rpm     
+glibc-common                       2.40-28.fc41                 rpm     
+glibc-minimal-langpack             2.40-28.fc41                 rpm     
 gmp                                1:6.3.0-2.fc41               rpm     
 gnutls                             3.8.10-1.fc41                rpm     
 gpg-pubkey                         e99d6ad1-64d2612c            rpm     
@@ -62,8 +62,8 @@ libdnf5-cli                        5.2.16.0-1.fc41              rpm
 libeconf                           0.6.2-3.fc41                 rpm     
 libevent                           2.1.12-14.fc41               rpm     
 libffi                             3.4.6-3.fc41                 rpm     
-libgcc                             14.3.1-1.fc41                rpm     
-libgomp                            14.3.1-1.fc41                rpm     
+libgcc                             14.3.1-3.fc41                rpm     
+libgomp                            14.3.1-3.fc41                rpm     
 libidn2                            2.3.8-1.fc41                 rpm     
 libmd                              1.1.0-5.fc41                 rpm     
 libmodulemd                        2.15.2-1.fc41                rpm     
@@ -81,7 +81,7 @@ libsmartcols                       2.40.4-1.fc41                rpm
 libsolv                            0.7.34-1.fc41                rpm     
 libssh                             0.11.2-1.fc41                rpm     
 libssh-config                      0.11.2-1.fc41                rpm     
-libstdc++                          14.3.1-1.fc41                rpm     
+libstdc++                          14.3.1-3.fc41                rpm     
 libtasn1                           4.20.0-1.fc41                rpm     
 libtirpc                           1.3.6-1.rc3.fc41             rpm     
 libtool-ltdl                       2.4.7-12.fc41                rpm     
@@ -100,7 +100,7 @@ ncurses-libs                       6.5-2.20240629.fc41          rpm
 netcat                             1.229-1.fc41                 rpm     
 nettle                             3.10-3.fc41                  rpm     
 oniguruma                          6.9.10-1.fc41                rpm     
-openldap                           2.6.9-1.fc41                 rpm     
+openldap                           2.6.10-1.fc41                rpm     
 openssl-libs                       1:3.2.4-2.fc41               rpm     
 p11-kit                            0.25.5-3.fc41                rpm     
 p11-kit-trust                      0.25.5-3.fc41                rpm     
@@ -127,8 +127,8 @@ systemd-libs                       256.17-1.fc41                rpm
 tar                                2:1.35-4.fc41                rpm     
 tzdata                             2025b-1.fc41                 rpm     
 util-linux-core                    2.40.4-1.fc41                rpm     
-vim-data                           2:9.1.1591-1.fc41            rpm     
-vim-minimal                        2:9.1.1591-1.fc41            rpm     
+vim-data                           2:9.1.1623-1.fc41            rpm     
+vim-minimal                        2:9.1.1623-1.fc41            rpm     
 which                              2.21-42.fc41                 rpm     
 xz                                 1:5.8.1-2.fc41               rpm     
 xz-libs                            1:5.8.1-2.fc41               rpm     
