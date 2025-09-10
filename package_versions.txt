@@ -83,7 +83,7 @@ libssh                             0.11.2-1.fc42                rpm
 libssh-config                      0.11.2-1.fc42                rpm     
 libstdc++                          15.2.1-1.fc42                rpm     
 libtasn1                           4.20.0-1.fc42                rpm     
-libtirpc                           1.3.6-1.rc3.fc42.2           rpm     
+libtirpc                           1.3.7-0.fc42                 rpm     
 libtool-ltdl                       2.5.4-4.fc42                 rpm     
 libunistring                       1.1-9.fc42                   rpm     
 libuuid                            2.40.4-7.fc42                rpm     
@@ -102,8 +102,8 @@ nettle                             3.10.1-1.fc42                rpm
 oniguruma                          6.9.10-2.fc42                rpm     
 openldap                           2.6.10-1.fc42                rpm     
 openssl-libs                       1:3.2.4-4.fc42               rpm     
-p11-kit                            0.25.5-5.fc42                rpm     
-p11-kit-trust                      0.25.5-5.fc42                rpm     
+p11-kit                            0.25.5-6.fc42                rpm     
+p11-kit-trust                      0.25.5-6.fc42                rpm     
 pam                                1.7.0-6.fc42                 rpm     
 pam-libs                           1.7.0-6.fc42                 rpm     
 pcre2                              10.45-1.fc42                 rpm     
@@ -123,13 +123,13 @@ setup                              2.15.0-13.fc42               rpm
 shadow-utils                       2:4.17.4-1.fc42              rpm     
 sqlite-libs                        3.47.2-2.fc42                rpm     
 sudo                               1.9.17-2.p1.fc42             rpm     
-systemd-libs                       257.7-1.fc42                 rpm     
-systemd-standalone-sysusers        257.7-1.fc42                 rpm     
+systemd-libs                       257.9-2.fc42                 rpm     
+systemd-standalone-sysusers        257.9-2.fc42                 rpm     
 tar                                2:1.35-5.fc42                rpm     
 tzdata                             2025b-1.fc42                 rpm     
 util-linux-core                    2.40.4-7.fc42                rpm     
-vim-data                           2:9.1.1706-1.fc42            rpm     
-vim-minimal                        2:9.1.1706-1.fc42            rpm     
+vim-data                           2:9.1.1723-1.fc42            rpm     
+vim-minimal                        2:9.1.1723-1.fc42            rpm     
 which                              2.23-2.fc42                  rpm     
 xz                                 1:5.8.1-2.fc42               rpm     
 xz-libs                            1:5.8.1-2.fc42               rpm     
