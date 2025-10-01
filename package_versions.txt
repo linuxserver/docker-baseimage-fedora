@@ -79,8 +79,8 @@ libsemanage                        3.7-2.fc41                   rpm
 libsepol                           3.7-2.fc41                   rpm     
 libsmartcols                       2.40.4-1.fc41                rpm     
 libsolv                            0.7.34-1.fc41                rpm     
-libssh                             0.11.2-1.fc41                rpm     
-libssh-config                      0.11.2-1.fc41                rpm     
+libssh                             0.11.3-1.fc41                rpm     
+libssh-config                      0.11.3-1.fc41                rpm     
 libstdc++                          14.3.1-3.fc41                rpm     
 libtasn1                           4.20.0-1.fc41                rpm     
 libtirpc                           1.3.6-1.rc3.fc41             rpm     
@@ -127,8 +127,8 @@ systemd-libs                       256.17-1.fc41                rpm
 tar                                2:1.35-4.fc41                rpm     
 tzdata                             2025b-1.fc41                 rpm     
 util-linux-core                    2.40.4-1.fc41                rpm     
-vim-data                           2:9.1.1723-2.fc41            rpm     
-vim-minimal                        2:9.1.1723-2.fc41            rpm     
+vim-data                           2:9.1.1775-1.fc41            rpm     
+vim-minimal                        2:9.1.1775-1.fc41            rpm     
 which                              2.21-42.fc41                 rpm     
 xz                                 1:5.8.1-2.fc41               rpm     
 xz-libs                            1:5.8.1-2.fc41               rpm     
