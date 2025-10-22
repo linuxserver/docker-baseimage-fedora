@@ -124,8 +124,8 @@ setup                              2.15.0-13.fc42               rpm
 shadow-utils                       2:4.17.4-1.fc42              rpm     
 sqlite-libs                        3.47.2-5.fc42                rpm     
 sudo                               1.9.17-2.p1.fc42             rpm     
-systemd-libs                       257.9-2.fc42                 rpm     
-systemd-standalone-sysusers        257.9-2.fc42                 rpm     
+systemd-libs                       257.10-1.fc42                rpm     
+systemd-standalone-sysusers        257.10-1.fc42                rpm     
 tar                                2:1.35-5.fc42                rpm     
 tzdata                             2025b-1.fc42                 rpm     
 util-linux-core                    2.40.4-7.fc42                rpm     
