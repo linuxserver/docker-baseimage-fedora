@@ -101,7 +101,7 @@ netcat                             1.229-1.fc41                 rpm
 nettle                             3.10-3.fc41                  rpm     
 oniguruma                          6.9.10-1.fc41                rpm     
 openldap                           2.6.10-1.fc41                rpm     
-openssl-libs                       1:3.2.4-2.fc41               rpm     
+openssl-libs                       1:3.2.6-2.fc41               rpm     
 p11-kit                            0.25.5-4.fc41                rpm     
 p11-kit-trust                      0.25.5-4.fc41                rpm     
 pam                                1.6.1-8.fc41                 rpm     
@@ -127,8 +127,8 @@ systemd-libs                       256.17-1.fc41                rpm
 tar                                2:1.35-4.fc41                rpm     
 tzdata                             2025b-1.fc41                 rpm     
 util-linux-core                    2.40.4-1.fc41                rpm     
-vim-data                           2:9.1.1818-1.fc41            rpm     
-vim-minimal                        2:9.1.1818-1.fc41            rpm     
+vim-data                           2:9.1.1863-1.fc41            rpm     
+vim-minimal                        2:9.1.1863-1.fc41            rpm     
 which                              2.21-42.fc41                 rpm     
 xz                                 1:5.8.1-2.fc41               rpm     
 xz-libs                            1:5.8.1-2.fc41               rpm     
