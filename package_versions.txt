@@ -62,8 +62,8 @@ libdnf5-cli                        5.2.16.0-1.fc41              rpm
 libeconf                           0.6.2-3.fc41                 rpm     
 libevent                           2.1.12-14.fc41               rpm     
 libffi                             3.4.6-3.fc41                 rpm     
-libgcc                             14.3.1-3.fc41                rpm     
-libgomp                            14.3.1-3.fc41                rpm     
+libgcc                             14.3.1-4.fc41                rpm     
+libgomp                            14.3.1-4.fc41                rpm     
 libidn2                            2.3.8-1.fc41                 rpm     
 libmd                              1.1.0-5.fc41                 rpm     
 libmodulemd                        2.15.2-1.fc41                rpm     
@@ -81,7 +81,7 @@ libsmartcols                       2.40.4-1.fc41                rpm
 libsolv                            0.7.34-1.fc41                rpm     
 libssh                             0.11.3-1.fc41                rpm     
 libssh-config                      0.11.3-1.fc41                rpm     
-libstdc++                          14.3.1-3.fc41                rpm     
+libstdc++                          14.3.1-4.fc41                rpm     
 libtasn1                           4.20.0-1.fc41                rpm     
 libtirpc                           1.3.6-1.rc3.fc41             rpm     
 libtool-ltdl                       2.4.7-12.fc41                rpm     
