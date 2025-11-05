@@ -1,6 +1,6 @@
 NAME                               VERSION                      TYPE   
 alternatives                       1.33-1.fc42                  rpm     
-audit-libs                         4.1.1-1.fc42                 rpm     
+audit-libs                         4.1.2-2.fc42                 rpm     
 authselect                         1.5.1-1.fc42                 rpm     
 authselect-libs                    1.5.1-1.fc42                 rpm     
 basesystem                         11-22.fc42                   rpm     
@@ -18,9 +18,9 @@ curl                               8.11.1-6.fc42                rpm
 cyrus-sasl-lib                     2.1.28-30.fc42               rpm     
 dnf5                               5.2.16.0-1.fc42              rpm     
 dnf5-plugins                       5.2.16.0-1.fc42              rpm     
-elfutils-default-yama-scope        0.193-2.fc42                 rpm     
-elfutils-libelf                    0.193-2.fc42                 rpm     
-elfutils-libs                      0.193-2.fc42                 rpm     
+elfutils-default-yama-scope        0.194-1.fc42                 rpm     
+elfutils-libelf                    0.194-1.fc42                 rpm     
+elfutils-libs                      0.194-1.fc42                 rpm     
 fedora-gpg-keys                    42-1                         rpm     
 fedora-release-common              42-30                        rpm     
 fedora-release-container           42-30                        rpm     
@@ -63,8 +63,8 @@ libdnf5-cli                        5.2.16.0-1.fc42              rpm
 libeconf                           0.7.6-2.fc42                 rpm     
 libevent                           2.1.12-15.fc42               rpm     
 libffi                             3.4.6-5.fc42                 rpm     
-libgcc                             15.2.1-1.fc42                rpm     
-libgomp                            15.2.1-1.fc42                rpm     
+libgcc                             15.2.1-3.fc42                rpm     
+libgomp                            15.2.1-3.fc42                rpm     
 libidn2                            2.3.8-1.fc42                 rpm     
 libmd                              1.1.0-7.fc42                 rpm     
 libmodulemd                        2.15.2-1.fc42                rpm     
@@ -82,7 +82,7 @@ libsmartcols                       2.40.4-7.fc42                rpm
 libsolv                            0.7.34-1.fc42                rpm     
 libssh                             0.11.3-1.fc42                rpm     
 libssh-config                      0.11.3-1.fc42                rpm     
-libstdc++                          15.2.1-1.fc42                rpm     
+libstdc++                          15.2.1-3.fc42                rpm     
 libtasn1                           4.20.0-1.fc42                rpm     
 libtirpc                           1.3.7-0.fc42                 rpm     
 libtool-ltdl                       2.5.4-4.fc42                 rpm     
@@ -107,8 +107,8 @@ p11-kit                            0.25.8-1.fc42                rpm
 p11-kit-trust                      0.25.8-1.fc42                rpm     
 pam                                1.7.0-6.fc42                 rpm     
 pam-libs                           1.7.0-6.fc42                 rpm     
-pcre2                              10.45-1.fc42                 rpm     
-pcre2-syntax                       10.45-1.fc42                 rpm     
+pcre2                              10.46-1.fc42                 rpm     
+pcre2-syntax                       10.46-1.fc42                 rpm     
 popt                               1.19-8.fc42                  rpm     
 procps-ng                          4.0.4-6.fc42.1               rpm     
 publicsuffix-list-dafsa            20250616-1.fc42              rpm     
