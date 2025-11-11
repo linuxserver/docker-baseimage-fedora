@@ -4,7 +4,7 @@
 project_name: docker-baseimage-fedora
 external_type: na
 custom_version_command: "echo 42"
-release_type: stable
+release_type: prerelease
 release_tag: "42"
 ls_branch: master
 repo_vars:
