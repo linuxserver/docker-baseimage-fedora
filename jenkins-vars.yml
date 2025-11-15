@@ -2,8 +2,7 @@
 
 # jenkins variables
 project_name: docker-baseimage-fedora
-external_type: na
-custom_version_command: "echo 43"
+external_type: os
 release_type: stable
 release_tag: "43"
 ls_branch: "43"

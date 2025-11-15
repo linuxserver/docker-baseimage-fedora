@@ -4,7 +4,7 @@ FROM alpine:3 AS rootfs-stage
 
 # environment
 ENV ARCH=x86_64
-ARG FEDORA_VERSION
+ARG FEDORA_RELEASE=43
 
 # install packages
 RUN \
@@ -20,7 +20,7 @@ RUN \
 # grab tarball root
 RUN \
   mkdir /root-out && \
-  git clone --depth 1 -b ${FEDORA_VERSION} https://github.com/fedora-cloud/docker-brew-fedora.git && \
+  git clone --depth 1 -b ${FEDORA_RELEASE} https://github.com/fedora-cloud/docker-brew-fedora.git && \
   tar xf \
     docker-brew-fedora/${ARCH}/fedora-*.tar -C \
     /root-out && \
