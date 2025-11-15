@@ -6,7 +6,7 @@ external_type: na
 custom_version_command: "echo 42"
 release_type: prerelease
 release_tag: "42"
-ls_branch: master
+ls_branch: "42"
 repo_vars:
   - BUILD_VERSION_ARG = 'FEDORA_VERSION'
   - LS_USER = 'linuxserver'
