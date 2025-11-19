@@ -1,5 +1,5 @@
 NAME                               VERSION                      TYPE   
-alternatives                       1.33-1.fc42                  rpm     
+alternatives                       1.33-3.fc42                  rpm     
 audit-libs                         4.1.2-2.fc42                 rpm     
 authselect                         1.5.1-1.fc42                 rpm     
 authselect-libs                    1.5.1-1.fc42                 rpm     
@@ -89,7 +89,7 @@ libtool-ltdl                       2.5.4-4.fc42                 rpm
 libunistring                       1.1-9.fc42                   rpm     
 libuuid                            2.40.4-7.fc42                rpm     
 libverto                           0.3.2-10.fc42                rpm     
-libxcrypt                          4.5.0-1.fc42                 rpm     
+libxcrypt                          4.5.2-1.fc42                 rpm     
 libxml2                            2.12.10-1.fc42               rpm     
 libyaml                            0.2.5-16.fc42                rpm     
 libzstd                            1.5.7-1.fc42                 rpm     
