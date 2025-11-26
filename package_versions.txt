@@ -44,7 +44,7 @@ gnupg2-gpg-agent                   2.4.8-4.fc43                                 
 gnupg2-gpgconf                     2.4.8-4.fc43                                       rpm     
 gnupg2-keyboxd                     2.4.8-4.fc43                                       rpm     
 gnupg2-verify                      2.4.8-4.fc43                                       rpm     
-gnutls                             3.8.10-3.fc43                                      rpm     
+gnutls                             3.8.11-1.fc43                                      rpm     
 gpg-pubkey                         c6e7f081cf80e13146676e88829b606631645531-66b6dccf  rpm     
 grep                               3.12-2.fc43                                        rpm     
 gzip                               1.13-4.fc43                                        rpm     
@@ -120,8 +120,8 @@ p11-kit                            0.25.8-1.fc43                                
 p11-kit-trust                      0.25.8-1.fc43                                      rpm     
 pam                                1.7.1-3.fc43                                       rpm     
 pam-libs                           1.7.1-3.fc43                                       rpm     
-pcre2                              10.46-1.fc43                                       rpm     
-pcre2-syntax                       10.46-1.fc43                                       rpm     
+pcre2                              10.47-1.fc43                                       rpm     
+pcre2-syntax                       10.47-1.fc43                                       rpm     
 popt                               1.19-9.fc43                                        rpm     
 procps-ng                          4.0.4-7.fc43.1                                     rpm     
 publicsuffix-list-dafsa            20250616-2.fc43                                    rpm     
