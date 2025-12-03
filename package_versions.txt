@@ -12,7 +12,7 @@ catatonit                          0.2.1-3.fc43                                 
 coreutils                          9.7-6.fc43                                         rpm     
 coreutils-common                   9.7-6.fc43                                         rpm     
 cracklib                           2.9.11-8.fc43                                      rpm     
-crypto-policies                    20250714-5.gitcd6043a.fc43                         rpm     
+crypto-policies                    20251125-1.git63291f8.fc43                         rpm     
 curl                               8.15.0-3.fc43                                      rpm     
 cyrus-sasl-lib                     2.1.28-33.fc43                                     rpm     
 dnf5                               5.2.17.0-2.fc43                                    rpm     
@@ -44,7 +44,7 @@ gnupg2-gpg-agent                   2.4.8-4.fc43                                 
 gnupg2-gpgconf                     2.4.8-4.fc43                                       rpm     
 gnupg2-keyboxd                     2.4.8-4.fc43                                       rpm     
 gnupg2-verify                      2.4.8-4.fc43                                       rpm     
-gnutls                             3.8.11-1.fc43                                      rpm     
+gnutls                             3.8.11-5.fc43                                      rpm     
 gpg-pubkey                         c6e7f081cf80e13146676e88829b606631645531-66b6dccf  rpm     
 grep                               3.12-2.fc43                                        rpm     
 gzip                               1.13-4.fc43                                        rpm     
@@ -69,7 +69,7 @@ libdnf5                            5.2.17.0-2.fc43                              
 libdnf5-cli                        5.2.17.0-2.fc43                                    rpm     
 libeconf                           0.7.9-2.fc43                                       rpm     
 libevent                           2.1.12-16.fc43                                     rpm     
-libffi                             3.5.1-2.fc43                                       rpm     
+libffi                             3.5.2-1.fc43                                       rpm     
 libfsverity                        1.6-3.fc43                                         rpm     
 libgcc                             15.2.1-4.fc43                                      rpm     
 libgcrypt                          1.11.1-2.fc43                                      rpm     
@@ -147,8 +147,8 @@ util-linux-core                    2.41.1-17.fc43                               
 vim-data                           2:9.1.1914-1.fc43                                  rpm     
 vim-minimal                        2:9.1.1914-1.fc43                                  rpm     
 which                              2.23-3.fc43                                        rpm     
-xz                                 1:5.8.1-2.fc43                                     rpm     
-xz-libs                            1:5.8.1-2.fc43                                     rpm     
+xz                                 1:5.8.1-4.fc43                                     rpm     
+xz-libs                            1:5.8.1-4.fc43                                     rpm     
 zchunk-libs                        1.5.1-3.fc43                                       rpm     
 zlib-ng-compat                     2.2.5-2.fc43                                       rpm     
 zstd                               1.5.7-2.fc43                                       rpm     
