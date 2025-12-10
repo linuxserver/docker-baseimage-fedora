@@ -13,7 +13,7 @@ catatonit                          0.2.1-1.fc42                 rpm
 coreutils                          9.6-6.fc42                   rpm     
 coreutils-common                   9.6-6.fc42                   rpm     
 cracklib                           2.9.11-7.fc42                rpm     
-crypto-policies                    20250707-1.gitad370a8.fc42   rpm     
+crypto-policies                    20251125-1.git3839d0e.fc42   rpm     
 curl                               8.11.1-6.fc42                rpm     
 cyrus-sasl-lib                     2.1.28-30.fc42               rpm     
 dnf5                               5.2.17.0-1.fc42              rpm     
@@ -39,7 +39,7 @@ glibc-common                       2.41-11.fc42                 rpm
 glibc-minimal-langpack             2.41-11.fc42                 rpm     
 gmp                                1:6.3.0-4.fc42               rpm     
 gnulib-l10n                        20241231-1.fc42              rpm     
-gnutls                             3.8.10-1.fc42                rpm     
+gnutls                             3.8.11-2.fc42                rpm     
 gpg-pubkey                         105ef944-65ca83d1            rpm     
 grep                               3.11-10.fc42                 rpm     
 gzip                               1.13-3.fc42                  rpm     
@@ -132,8 +132,8 @@ util-linux-core                    2.40.4-7.fc42                rpm
 vim-data                           2:9.1.1914-1.fc42            rpm     
 vim-minimal                        2:9.1.1914-1.fc42            rpm     
 which                              2.23-2.fc42                  rpm     
-xz                                 1:5.8.1-2.fc42               rpm     
-xz-libs                            1:5.8.1-2.fc42               rpm     
+xz                                 1:5.8.1-4.fc42               rpm     
+xz-libs                            1:5.8.1-4.fc42               rpm     
 zchunk-libs                        1.5.1-2.fc42                 rpm     
 zlib-ng-compat                     2.2.5-2.fc42                 rpm     
 zstd                               1.5.7-1.fc42                 rpm     
