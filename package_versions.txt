@@ -10,8 +10,8 @@ bzip2                              1.0.8-20.fc42                rpm
 bzip2-libs                         1.0.8-20.fc42                rpm     
 ca-certificates                    2025.2.80_v9.0.304-1.0.fc42  rpm     
 catatonit                          0.2.1-1.fc42                 rpm     
-coreutils                          9.6-6.fc42                   rpm     
-coreutils-common                   9.6-6.fc42                   rpm     
+coreutils                          9.6-7.fc42                   rpm     
+coreutils-common                   9.6-7.fc42                   rpm     
 cracklib                           2.9.11-7.fc42                rpm     
 crypto-policies                    20251125-1.git3839d0e.fc42   rpm     
 curl                               8.11.1-6.fc42                rpm     
@@ -105,8 +105,8 @@ openldap                           2.6.10-1.fc42                rpm
 openssl-libs                       1:3.2.6-2.fc42               rpm     
 p11-kit                            0.25.8-1.fc42                rpm     
 p11-kit-trust                      0.25.8-1.fc42                rpm     
-pam                                1.7.0-6.fc42                 rpm     
-pam-libs                           1.7.0-6.fc42                 rpm     
+pam                                1.7.0-7.fc42                 rpm     
+pam-libs                           1.7.0-7.fc42                 rpm     
 pcre2                              10.46-1.fc42                 rpm     
 pcre2-syntax                       10.46-1.fc42                 rpm     
 popt                               1.19-8.fc42                  rpm     
@@ -129,8 +129,8 @@ systemd-standalone-sysusers        257.10-1.fc42                rpm
 tar                                2:1.35-5.fc42                rpm     
 tzdata                             2025c-1.fc42                 rpm     
 util-linux-core                    2.40.4-8.fc42                rpm     
-vim-data                           2:9.1.1952-1.fc42            rpm     
-vim-minimal                        2:9.1.1952-1.fc42            rpm     
+vim-data                           2:9.1.2068-1.fc42            rpm     
+vim-minimal                        2:9.1.2068-1.fc42            rpm     
 which                              2.23-2.fc42                  rpm     
 xz                                 1:5.8.1-4.fc42               rpm     
 xz-libs                            1:5.8.1-4.fc42               rpm     
