@@ -129,8 +129,8 @@ systemd-standalone-sysusers        257.10-1.fc42                rpm
 tar                                2:1.35-5.fc42                rpm     
 tzdata                             2025c-1.fc42                 rpm     
 util-linux-core                    2.40.4-8.fc42                rpm     
-vim-data                           2:9.1.2068-1.fc42            rpm     
-vim-minimal                        2:9.1.2068-1.fc42            rpm     
+vim-data                           2:9.1.2086-1.fc42            rpm     
+vim-minimal                        2:9.1.2086-1.fc42            rpm     
 which                              2.23-2.fc42                  rpm     
 xz                                 1:5.8.1-4.fc42               rpm     
 xz-libs                            1:5.8.1-4.fc42               rpm     
