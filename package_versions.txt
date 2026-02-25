@@ -32,10 +32,10 @@ fmt                                11.2.0-3.fc43                                
 gawk                               5.3.2-2.fc43                                       rpm     
 gdbm                               1:1.23-10.fc43                                     rpm     
 gdbm-libs                          1:1.23-10.fc43                                     rpm     
-glib2                              2.86.3-1.fc43                                      rpm     
-glibc                              2.42-9.fc43                                        rpm     
-glibc-common                       2.42-9.fc43                                        rpm     
-glibc-minimal-langpack             2.42-9.fc43                                        rpm     
+glib2                              2.86.4-1.fc43                                      rpm     
+glibc                              2.42-10.fc43                                       rpm     
+glibc-common                       2.42-10.fc43                                       rpm     
+glibc-minimal-langpack             2.42-10.fc43                                       rpm     
 gmp                                1:6.3.0-4.fc43                                     rpm     
 gnulib-l10n                        20241231-1.fc43                                    rpm     
 gnupg2                             2.4.9-5.fc43                                       rpm     
@@ -62,7 +62,7 @@ libblkid                           2.41.3-7.fc43                                
 libbrotli                          1.2.0-1.fc43                                       rpm     
 libbsd                             0.12.2-6.fc43                                      rpm     
 libcap                             2.76-3.fc43                                        rpm     
-libcap-ng                          0.9-7.fc43                                         rpm     
+libcap-ng                          0.9.1-1.fc43                                       rpm     
 libcom_err                         1.47.3-2.fc43                                      rpm     
 libcurl                            8.15.0-5.fc43                                      rpm     
 libdnf5                            5.2.18.0-1.fc43                                    rpm     
@@ -144,8 +144,8 @@ tar                                2:1.35-6.fc43                                
 tpm2-tss                           4.1.3-8.fc43                                       rpm     
 tzdata                             2025c-1.fc43                                       rpm     
 util-linux-core                    2.41.3-7.fc43                                      rpm     
-vim-data                           2:9.1.2128-2.fc43                                  rpm     
-vim-minimal                        2:9.1.2128-2.fc43                                  rpm     
+vim-data                           2:9.1.2146-2.fc43                                  rpm     
+vim-minimal                        2:9.1.2146-2.fc43                                  rpm     
 which                              2.23-3.fc43                                        rpm     
 xz                                 1:5.8.1-4.fc43                                     rpm     
 xz-libs                            1:5.8.1-4.fc43                                     rpm     
