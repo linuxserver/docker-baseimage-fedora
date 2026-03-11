@@ -16,8 +16,8 @@ cracklib                           2.9.11-7.fc42                rpm
 crypto-policies                    20251125-1.git3839d0e.fc42   rpm     
 curl                               8.11.1-7.fc42                rpm     
 cyrus-sasl-lib                     2.1.28-30.fc42               rpm     
-dnf5                               5.2.17.0-1.fc42              rpm     
-dnf5-plugins                       5.2.17.0-1.fc42              rpm     
+dnf5                               5.2.18.0-1.fc42              rpm     
+dnf5-plugins                       5.2.18.0-1.fc42              rpm     
 elfutils-default-yama-scope        0.194-1.fc42                 rpm     
 elfutils-libelf                    0.194-1.fc42                 rpm     
 elfutils-libs                      0.194-1.fc42                 rpm     
@@ -55,11 +55,11 @@ libblkid                           2.40.4-10.fc42               rpm
 libbrotli                          1.2.0-1.fc42                 rpm     
 libbsd                             0.12.2-5.fc42                rpm     
 libcap                             2.73-2.fc42                  rpm     
-libcap-ng                          0.9-7.fc42                   rpm     
+libcap-ng                          0.9.1-1.fc42                 rpm     
 libcom_err                         1.47.2-3.fc42                rpm     
 libcurl                            8.11.1-7.fc42                rpm     
-libdnf5                            5.2.17.0-1.fc42              rpm     
-libdnf5-cli                        5.2.17.0-1.fc42              rpm     
+libdnf5                            5.2.18.0-1.fc42              rpm     
+libdnf5-cli                        5.2.18.0-1.fc42              rpm     
 libeconf                           0.7.6-2.fc42                 rpm     
 libevent                           2.1.12-15.fc42               rpm     
 libffi                             3.4.6-5.fc42                 rpm     
@@ -124,8 +124,8 @@ setup                              2.15.0-13.fc42               rpm
 shadow-utils                       2:4.17.4-1.fc42              rpm     
 sqlite-libs                        3.47.2-5.fc42                rpm     
 sudo                               1.9.17-2.p1.fc42             rpm     
-systemd-libs                       257.10-1.fc42                rpm     
-systemd-standalone-sysusers        257.10-1.fc42                rpm     
+systemd-libs                       257.11-1.fc42                rpm     
+systemd-standalone-sysusers        257.11-1.fc42                rpm     
 tar                                2:1.35-5.fc42                rpm     
 tzdata                             2025c-1.fc42                 rpm     
 util-linux-core                    2.40.4-10.fc42               rpm     
