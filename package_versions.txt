@@ -16,8 +16,8 @@ cracklib                           2.9.11-7.fc42                rpm
 crypto-policies                    20251125-1.git3839d0e.fc42   rpm     
 curl                               8.11.1-7.fc42                rpm     
 cyrus-sasl-lib                     2.1.28-30.fc42               rpm     
-dnf5                               5.2.18.0-1.fc42              rpm     
-dnf5-plugins                       5.2.18.0-1.fc42              rpm     
+dnf5                               5.2.18.0-2.fc42              rpm     
+dnf5-plugins                       5.2.18.0-2.fc42              rpm     
 elfutils-default-yama-scope        0.194-1.fc42                 rpm     
 elfutils-libelf                    0.194-1.fc42                 rpm     
 elfutils-libs                      0.194-1.fc42                 rpm     
@@ -58,8 +58,8 @@ libcap                             2.73-2.fc42                  rpm
 libcap-ng                          0.9.1-1.fc42                 rpm     
 libcom_err                         1.47.2-3.fc42                rpm     
 libcurl                            8.11.1-7.fc42                rpm     
-libdnf5                            5.2.18.0-1.fc42              rpm     
-libdnf5-cli                        5.2.18.0-1.fc42              rpm     
+libdnf5                            5.2.18.0-2.fc42              rpm     
+libdnf5-cli                        5.2.18.0-2.fc42              rpm     
 libeconf                           0.7.6-2.fc42                 rpm     
 libevent                           2.1.12-15.fc42               rpm     
 libffi                             3.4.6-5.fc42                 rpm     
@@ -117,7 +117,7 @@ rootfiles                          8.1-38.fc42                  rpm
 rpm                                4.20.1-1.fc42                rpm     
 rpm-build-libs                     4.20.1-1.fc42                rpm     
 rpm-libs                           4.20.1-1.fc42                rpm     
-rpm-sequoia                        1.10.0-1.fc42                rpm     
+rpm-sequoia                        1.10.1-1.fc42                rpm     
 sdbus-cpp                          1.5.0-4.fc42                 rpm     
 sed                                4.9-4.fc42                   rpm     
 setup                              2.15.0-13.fc42               rpm     
