@@ -4,7 +4,7 @@ FROM alpine:3 AS rootfs-stage
 
 # environment
 ENV ARCH=x86_64
-ARG FEDORA_RELEASE=43
+ARG FEDORA_RELEASE=44
 
 # install packages
 RUN \
