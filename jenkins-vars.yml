@@ -4,8 +4,8 @@
 project_name: docker-baseimage-fedora
 external_type: os
 release_type: stable
-release_tag: "43"
-ls_branch: "43"
+release_tag: "44"
+ls_branch: "44"
 repo_vars:
   - BUILD_VERSION_ARG = 'FEDORA_VERSION'
   - LS_USER = 'linuxserver'
