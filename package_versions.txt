@@ -25,7 +25,7 @@ fedora-release-common              43-26                                        
 fedora-release-container           43-26                                              rpm     
 fedora-release-identity-container  43-26                                              rpm     
 fedora-repos                       43-1                                               rpm     
-file-libs                          5.46-8.fc43                                        rpm     
+file-libs                          5.46-9.fc43                                        rpm     
 filesystem                         3.18-50.fc43                                       rpm     
 findutils                          1:4.10.0-6.fc43                                    rpm     
 fmt                                11.2.0-3.fc43                                      rpm     
@@ -53,7 +53,7 @@ ima-evm-utils-libs                 1.6.2-6.fc43                                 
 jq                                 1.8.1-1.fc43                                       rpm     
 json-c                             0.18-7.fc43                                        rpm     
 keyutils-libs                      1.6.3-6.fc43                                       rpm     
-krb5-libs                          1.22.2-2.fc43                                      rpm     
+krb5-libs                          1.22.2-3.fc43                                      rpm     
 libacl                             2.3.2-4.fc43                                       rpm     
 libarchive                         3.8.4-1.fc43                                       rpm     
 libassuan                          2.5.7-4.fc43                                       rpm     
@@ -144,8 +144,8 @@ tar                                2:1.35-6.fc43                                
 tpm2-tss                           4.1.3-8.fc43                                       rpm     
 tzdata                             2026a-1.fc43                                       rpm     
 util-linux-core                    2.41.3-7.fc43                                      rpm     
-vim-data                           2:9.2.240-1.fc43                                   rpm     
-vim-minimal                        2:9.2.240-1.fc43                                   rpm     
+vim-data                           2:9.2.280-1.fc43                                   rpm     
+vim-minimal                        2:9.2.280-1.fc43                                   rpm     
 which                              2.23-3.fc43                                        rpm     
 xz                                 1:5.8.1-4.fc43                                     rpm     
 xz-libs                            1:5.8.1-4.fc43                                     rpm     
