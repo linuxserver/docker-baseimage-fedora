@@ -11,7 +11,7 @@ ca-certificates                    2025.2.80_v9.0.304-7.fc44                    
 catatonit                          0.2.1-5.fc44                                       rpm     
 coreutils                          9.10-3.fc44                                        rpm     
 coreutils-common                   9.10-3.fc44                                        rpm     
-cracklib                           2.9.11-10.fc44                                     rpm     
+cracklib                           2.10.3-1.fc44                                      rpm     
 crypto-policies                    20251128-3.git19878fe.fc44                         rpm     
 curl                               8.18.0-6.fc44                                      rpm     
 cyrus-sasl-lib                     2.1.28-35.fc44                                     rpm     
@@ -33,9 +33,9 @@ gawk                               5.3.2-3.fc44                                 
 gdbm                               1:1.23-11.fc44                                     rpm     
 gdbm-libs                          1:1.23-11.fc44                                     rpm     
 glib2                              2.88.1-1.fc44                                      rpm     
-glibc                              2.43-5.fc44                                        rpm     
-glibc-common                       2.43-5.fc44                                        rpm     
-glibc-minimal-langpack             2.43-5.fc44                                        rpm     
+glibc                              2.43-6.fc44                                        rpm     
+glibc-common                       2.43-6.fc44                                        rpm     
+glibc-minimal-langpack             2.43-6.fc44                                        rpm     
 gmp                                1:6.3.0-5.fc44                                     rpm     
 gnulib-l10n                        20241231-2.fc44                                    rpm     
 gnupg2                             2.4.9-16.fc44                                      rpm     
@@ -83,7 +83,7 @@ libmd                              1.2.0-1.fc44                                 
 libmodulemd                        2.15.2-7.fc44                                      rpm     
 libmount                           2.41.4-8.fc44                                      rpm     
 libnghttp2                         1.68.0-4.fc44                                      rpm     
-libnghttp3                         1.15.0-1.fc44                                      rpm     
+libnghttp3                         1.16.0-1.fc44                                      rpm     
 libnsl2                            2.0.1-5.fc44                                       rpm     
 libpsl                             0.21.5-7.fc44                                      rpm     
 libpwquality                       1.4.5-15.fc44                                      rpm     
@@ -93,7 +93,7 @@ libselinux                         3.10-1.fc44                                  
 libsemanage                        3.10-1.fc44                                        rpm     
 libsepol                           3.10-1.fc44                                        rpm     
 libsmartcols                       2.41.4-8.fc44                                      rpm     
-libsolv                            0.7.37-2.fc44                                      rpm     
+libsolv                            0.7.39-1.fc44                                      rpm     
 libssh                             0.12.0-1.fc44                                      rpm     
 libssh-config                      0.12.0-1.fc44                                      rpm     
 libstdc++                          16.1.1-2.fc44                                      rpm     
@@ -113,7 +113,7 @@ lz4-libs                           1.10.0-4.fc44                                
 mpfr                               4.2.2-3.fc44                                       rpm     
 ncurses-base                       6.6-1.fc44                                         rpm     
 ncurses-libs                       6.6-1.fc44                                         rpm     
-netcat                             1.237-3.fc44                                       rpm     
+netcat                             1.238-1.fc44                                       rpm     
 nettle                             3.10.1-3.fc44                                      rpm     
 ngtcp2                             1.22.1-1.fc44                                      rpm     
 ngtcp2-crypto-ossl                 1.22.1-1.fc44                                      rpm     
@@ -143,14 +143,14 @@ setup                              2.15.0-28.fc44                               
 shadow-utils                       2:4.19.0-7.fc44                                    rpm     
 sqlite-libs                        3.51.2-1.fc44                                      rpm     
 sudo                               1.9.17-8.p2.fc44                                   rpm     
-systemd-libs                       259.5-1.fc44                                       rpm     
-systemd-standalone-sysusers        259.5-1.fc44                                       rpm     
+systemd-libs                       259.6-1.fc44                                       rpm     
+systemd-standalone-sysusers        259.6-1.fc44                                       rpm     
 tar                                2:1.35-8.fc44                                      rpm     
 tpm2-tss                           4.1.3-9.fc44                                       rpm     
 tzdata                             2026b-1.fc44                                       rpm     
 util-linux-core                    2.41.4-8.fc44                                      rpm     
-vim-data                           2:9.2.530-1.fc44                                   rpm     
-vim-minimal                        2:9.2.530-1.fc44                                   rpm     
+vim-data                           2:9.2.597-1.fc44                                   rpm     
+vim-minimal                        2:9.2.597-1.fc44                                   rpm     
 which                              2.25-1.fc44                                        rpm     
 xz                                 1:5.8.2-2.fc44                                     rpm     
 xz-libs                            1:5.8.2-2.fc44                                     rpm     
