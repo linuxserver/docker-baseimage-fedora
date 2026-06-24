@@ -9,8 +9,8 @@ bzip2                              1.0.8-21.fc43                                
 bzip2-libs                         1.0.8-21.fc43                                      rpm     
 ca-certificates                    2025.2.80_v9.0.304-1.2.fc43                        rpm     
 catatonit                          0.2.1-3.fc43                                       rpm     
-coreutils                          9.7-8.fc43                                         rpm     
-coreutils-common                   9.7-8.fc43                                         rpm     
+coreutils                          9.7-9.fc43                                         rpm     
+coreutils-common                   9.7-9.fc43                                         rpm     
 cracklib                           2.10.3-1.fc43                                      rpm     
 crypto-policies                    20251125-1.git63291f8.fc43                         rpm     
 curl                               8.15.0-7.fc43                                      rpm     
@@ -115,7 +115,7 @@ nettle                             3.10.1-2.fc43                                
 npth                               1.8-3.fc43                                         rpm     
 oniguruma                          6.9.10-3.fc43                                      rpm     
 openldap                           2.6.13-1.fc43                                      rpm     
-openssl-libs                       1:3.5.4-3.fc43                                     rpm     
+openssl-libs                       1:3.5.7-1.fc43                                     rpm     
 p11-kit                            0.26.2-1.fc43                                      rpm     
 p11-kit-trust                      0.26.2-1.fc43                                      rpm     
 pam                                1.7.1-4.fc43                                       rpm     
@@ -144,8 +144,8 @@ tar                                2:1.35-6.fc43                                
 tpm2-tss                           4.1.3-8.fc43                                       rpm     
 tzdata                             2026b-1.fc43                                       rpm     
 util-linux-core                    2.41.4-7.fc43                                      rpm     
-vim-data                           2:9.2.530-1.fc43                                   rpm     
-vim-minimal                        2:9.2.530-1.fc43                                   rpm     
+vim-data                           2:9.2.597-1.fc43                                   rpm     
+vim-minimal                        2:9.2.597-1.fc43                                   rpm     
 which                              2.23-3.fc43                                        rpm     
 xz                                 1:5.8.1-4.fc43                                     rpm     
 xz-libs                            1:5.8.1-4.fc43                                     rpm     
