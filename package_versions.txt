@@ -58,7 +58,7 @@ libacl                             2.3.2-6.fc44                                 
 libarchive                         3.8.7-1.fc44                                       rpm     
 libassuan                          2.5.7-5.fc44                                       rpm     
 libattr                            2.5.2-8.fc44                                       rpm     
-libblkid                           2.41.4-8.fc44                                      rpm     
+libblkid                           2.41.5-1.fc44                                      rpm     
 libbrotli                          1.2.0-3.fc44                                       rpm     
 libbsd                             0.12.2-7.fc44                                      rpm     
 libcap                             2.78-1.fc44                                        rpm     
@@ -80,8 +80,8 @@ libgpg-error                       1.58-2.fc44                                  
 libidn2                            2.3.8-3.fc44                                       rpm     
 libksba                            1.6.7-5.fc44                                       rpm     
 libmd                              1.2.0-1.fc44                                       rpm     
-libmodulemd                        2.15.2-7.fc44                                      rpm     
-libmount                           2.41.4-8.fc44                                      rpm     
+libmodulemd                        2.15.3-1.fc44                                      rpm     
+libmount                           2.41.5-1.fc44                                      rpm     
 libnghttp2                         1.68.0-4.fc44                                      rpm     
 libnghttp3                         1.16.0-1.fc44                                      rpm     
 libnsl2                            2.0.1-5.fc44                                       rpm     
@@ -92,7 +92,7 @@ libretls                           3.8.1-7.fc44                                 
 libselinux                         3.10-1.fc44                                        rpm     
 libsemanage                        3.10-1.fc44                                        rpm     
 libsepol                           3.10-1.fc44                                        rpm     
-libsmartcols                       2.41.4-8.fc44                                      rpm     
+libsmartcols                       2.41.5-1.fc44                                      rpm     
 libsolv                            0.7.39-1.fc44                                      rpm     
 libssh                             0.12.0-1.fc44                                      rpm     
 libssh-config                      0.12.0-1.fc44                                      rpm     
@@ -102,7 +102,7 @@ libtirpc                           1.3.7-2.fc44                                 
 libtool-ltdl                       2.5.4-10.fc44                                      rpm     
 libunistring                       1.1-11.fc44                                        rpm     
 libusb1                            1.0.30-1.fc44                                      rpm     
-libuuid                            2.41.4-8.fc44                                      rpm     
+libuuid                            2.41.5-1.fc44                                      rpm     
 libverto                           0.3.2-12.fc44                                      rpm     
 libxcrypt                          4.5.2-3.fc44                                       rpm     
 libxml2                            2.12.10-6.fc44                                     rpm     
@@ -148,7 +148,7 @@ systemd-standalone-sysusers        259.6-1.fc44                                 
 tar                                2:1.35-8.fc44                                      rpm     
 tpm2-tss                           4.1.3-9.fc44                                       rpm     
 tzdata                             2026b-1.fc44                                       rpm     
-util-linux-core                    2.41.4-8.fc44                                      rpm     
+util-linux-core                    2.41.5-1.fc44                                      rpm     
 vim-data                           2:9.2.597-1.fc44                                   rpm     
 vim-minimal                        2:9.2.597-1.fc44                                   rpm     
 which                              2.25-1.fc44                                        rpm     
