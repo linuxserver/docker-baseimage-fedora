@@ -58,7 +58,7 @@ libacl                             2.3.2-4.fc43                                 
 libarchive                         3.8.4-1.fc43                                       rpm     
 libassuan                          2.5.7-4.fc43                                       rpm     
 libattr                            2.5.2-6.fc43                                       rpm     
-libblkid                           2.41.4-7.fc43                                      rpm     
+libblkid                           2.41.5-1.fc43                                      rpm     
 libbrotli                          1.2.0-1.fc43                                       rpm     
 libbsd                             0.12.2-6.fc43                                      rpm     
 libcap                             2.76-4.fc43                                        rpm     
@@ -79,7 +79,7 @@ libidn2                            2.3.8-2.fc43                                 
 libksba                            1.6.7-4.fc43                                       rpm     
 libmd                              1.2.0-1.fc43                                       rpm     
 libmodulemd                        2.15.2-4.fc43                                      rpm     
-libmount                           2.41.4-7.fc43                                      rpm     
+libmount                           2.41.5-1.fc43                                      rpm     
 libnghttp2                         1.66.0-2.fc43                                      rpm     
 libnsl2                            2.0.1-4.fc43                                       rpm     
 libpsl                             0.21.5-6.fc43                                      rpm     
@@ -89,7 +89,7 @@ libretls                           3.8.1-6.fc43                                 
 libselinux                         3.9-5.fc43                                         rpm     
 libsemanage                        3.9-4.fc43                                         rpm     
 libsepol                           3.9-2.fc43                                         rpm     
-libsmartcols                       2.41.4-7.fc43                                      rpm     
+libsmartcols                       2.41.5-1.fc43                                      rpm     
 libsolv                            0.7.39-1.fc43                                      rpm     
 libssh                             0.11.4-1.fc43                                      rpm     
 libssh-config                      0.11.4-1.fc43                                      rpm     
@@ -99,7 +99,7 @@ libtirpc                           1.3.7-1.fc43                                 
 libtool-ltdl                       2.5.4-8.fc43                                       rpm     
 libunistring                       1.1-10.fc43                                        rpm     
 libusb1                            1.0.30-1.fc43                                      rpm     
-libuuid                            2.41.4-7.fc43                                      rpm     
+libuuid                            2.41.5-1.fc43                                      rpm     
 libverto                           0.3.2-11.fc43                                      rpm     
 libxcrypt                          4.5.2-1.fc43                                       rpm     
 libxml2                            2.12.10-5.fc43                                     rpm     
@@ -143,7 +143,7 @@ systemd-standalone-sysusers        258.8-1.fc43                                 
 tar                                2:1.35-6.fc43                                      rpm     
 tpm2-tss                           4.1.3-8.fc43                                       rpm     
 tzdata                             2026b-1.fc43                                       rpm     
-util-linux-core                    2.41.4-7.fc43                                      rpm     
+util-linux-core                    2.41.5-1.fc43                                      rpm     
 vim-data                           2:9.2.597-1.fc43                                   rpm     
 vim-minimal                        2:9.2.597-1.fc43                                   rpm     
 which                              2.23-3.fc43                                        rpm     
