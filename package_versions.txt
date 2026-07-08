@@ -78,7 +78,7 @@ libgpg-error                       1.55-2.fc43                                  
 libidn2                            2.3.8-2.fc43                                       rpm     
 libksba                            1.6.7-4.fc43                                       rpm     
 libmd                              1.2.0-1.fc43                                       rpm     
-libmodulemd                        2.15.2-4.fc43                                      rpm     
+libmodulemd                        2.15.3-1.fc43                                      rpm     
 libmount                           2.41.5-1.fc43                                      rpm     
 libnghttp2                         1.66.0-2.fc43                                      rpm     
 libnsl2                            2.0.1-4.fc43                                       rpm     
@@ -138,14 +138,14 @@ setup                              2.15.0-26.fc43                               
 shadow-utils                       2:4.18.0-3.fc43                                    rpm     
 sqlite-libs                        3.50.2-2.fc43                                      rpm     
 sudo                               1.9.17-7.p2.fc43                                   rpm     
-systemd-libs                       258.8-1.fc43                                       rpm     
-systemd-standalone-sysusers        258.8-1.fc43                                       rpm     
+systemd-libs                       258.9-1.fc43                                       rpm     
+systemd-standalone-sysusers        258.9-1.fc43                                       rpm     
 tar                                2:1.35-6.fc43                                      rpm     
 tpm2-tss                           4.1.3-8.fc43                                       rpm     
 tzdata                             2026b-1.fc43                                       rpm     
 util-linux-core                    2.41.5-1.fc43                                      rpm     
-vim-data                           2:9.2.597-1.fc43                                   rpm     
-vim-minimal                        2:9.2.597-1.fc43                                   rpm     
+vim-data                           2:9.2.725-1.fc43                                   rpm     
+vim-minimal                        2:9.2.725-1.fc43                                   rpm     
 which                              2.23-3.fc43                                        rpm     
 xz                                 1:5.8.1-4.fc43                                     rpm     
 xz-libs                            1:5.8.1-4.fc43                                     rpm     
