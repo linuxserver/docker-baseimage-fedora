@@ -135,7 +135,7 @@ rootfiles                          9.0-6.fc44                                   
 rpm                                6.0.1-2.fc44                                       rpm     
 rpm-build-libs                     6.0.1-2.fc44                                       rpm     
 rpm-libs                           6.0.1-2.fc44                                       rpm     
-rpm-sequoia                        1.10.2-2.fc44                                      rpm     
+rpm-sequoia                        1.10.2-4.fc44                                      rpm     
 rpm-sign-libs                      6.0.1-2.fc44                                       rpm     
 sdbus-cpp                          2.2.1-2.fc44                                       rpm     
 sed                                4.9-7.fc44                                         rpm     
@@ -149,8 +149,8 @@ tar                                2:1.35-8.fc44                                
 tpm2-tss                           4.1.3-9.fc44                                       rpm     
 tzdata                             2026b-1.fc44                                       rpm     
 util-linux-core                    2.41.5-1.fc44                                      rpm     
-vim-data                           2:9.2.780-1.fc44                                   rpm     
-vim-minimal                        2:9.2.780-1.fc44                                   rpm     
+vim-data                           2:9.2.782-1.fc44                                   rpm     
+vim-minimal                        2:9.2.782-1.fc44                                   rpm     
 which                              2.25-1.fc44                                        rpm     
 xz                                 1:5.8.2-2.fc44                                     rpm     
 xz-libs                            1:5.8.2-2.fc44                                     rpm     
