@@ -1,6 +1,6 @@
 NAME                               VERSION                                            TYPE   
 alternatives                       1.33-3.fc43                                        rpm     
-audit-libs                         4.1.4-1.fc43                                       rpm     
+audit-libs                         4.2.1-1.fc43                                       rpm     
 authselect                         1.6.2-1.fc43                                       rpm     
 authselect-libs                    1.6.2-1.fc43                                       rpm     
 bash                               5.3.0-2.fc43                                       rpm     
@@ -9,11 +9,11 @@ bzip2                              1.0.8-21.fc43                                
 bzip2-libs                         1.0.8-21.fc43                                      rpm     
 ca-certificates                    2025.2.80_v9.0.304-1.2.fc43                        rpm     
 catatonit                          0.2.1-3.fc43                                       rpm     
-coreutils                          9.7-9.fc43                                         rpm     
-coreutils-common                   9.7-9.fc43                                         rpm     
+coreutils                          9.7-10.fc43                                        rpm     
+coreutils-common                   9.7-10.fc43                                        rpm     
 cracklib                           2.10.3-1.fc43                                      rpm     
 crypto-policies                    20251125-1.git63291f8.fc43                         rpm     
-curl                               8.15.0-7.fc43                                      rpm     
+curl                               8.15.0-8.fc43                                      rpm     
 cyrus-sasl-lib                     2.1.28-33.fc43                                     rpm     
 dnf5                               5.2.18.0-4.fc43                                    rpm     
 dnf5-plugins                       5.2.18.0-4.fc43                                    rpm     
@@ -64,7 +64,7 @@ libbsd                             0.12.2-6.fc43                                
 libcap                             2.76-4.fc43                                        rpm     
 libcap-ng                          0.9.3-1.fc43                                       rpm     
 libcom_err                         1.47.3-2.fc43                                      rpm     
-libcurl                            8.15.0-7.fc43                                      rpm     
+libcurl                            8.15.0-8.fc43                                      rpm     
 libdnf5                            5.2.18.0-4.fc43                                    rpm     
 libdnf5-cli                        5.2.18.0-4.fc43                                    rpm     
 libeconf                           0.7.9-2.fc43                                       rpm     
@@ -144,11 +144,11 @@ tar                                2:1.35-6.fc43                                
 tpm2-tss                           4.1.3-8.fc43                                       rpm     
 tzdata                             2026b-1.fc43                                       rpm     
 util-linux-core                    2.41.5-1.fc43                                      rpm     
-vim-data                           2:9.2.843-1.fc43                                   rpm     
-vim-minimal                        2:9.2.843-1.fc43                                   rpm     
+vim-data                           2:9.2.920-1.fc43                                   rpm     
+vim-minimal                        2:9.2.920-1.fc43                                   rpm     
 which                              2.23-3.fc43                                        rpm     
 xz                                 1:5.8.1-4.fc43                                     rpm     
 xz-libs                            1:5.8.1-4.fc43                                     rpm     
-zchunk-libs                        1.5.1-3.fc43                                       rpm     
+zchunk-libs                        1.5.4-1.fc43                                       rpm     
 zlib-ng-compat                     2.3.3-2.fc43                                       rpm     
 zstd                               1.5.7-2.fc43                                       rpm     
