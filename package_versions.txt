@@ -13,7 +13,7 @@ coreutils                          9.7-10.fc43                                  
 coreutils-common                   9.7-10.fc43                                        rpm     
 cracklib                           2.10.3-1.fc43                                      rpm     
 crypto-policies                    20251125-1.git63291f8.fc43                         rpm     
-curl                               8.15.0-9.fc43                                      rpm     
+curl                               8.15.0-10.fc43                                     rpm     
 cyrus-sasl-lib                     2.1.28-33.fc43                                     rpm     
 dnf5                               5.2.18.0-5.fc43                                    rpm     
 dnf5-plugins                       5.2.18.0-5.fc43                                    rpm     
@@ -64,11 +64,11 @@ libbsd                             0.12.2-6.fc43                                
 libcap                             2.76-4.fc43                                        rpm     
 libcap-ng                          0.9.5-1.fc43                                       rpm     
 libcom_err                         1.47.3-2.fc43                                      rpm     
-libcurl                            8.15.0-9.fc43                                      rpm     
+libcurl                            8.15.0-10.fc43                                     rpm     
 libdnf5                            5.2.18.0-5.fc43                                    rpm     
 libdnf5-cli                        5.2.18.0-5.fc43                                    rpm     
 libeconf                           0.7.9-2.fc43                                       rpm     
-libevent                           2.1.12-16.fc43                                     rpm     
+libevent                           2.1.13-1.fc43                                      rpm     
 libffi                             3.5.2-1.fc43                                       rpm     
 libfsverity                        1.6-3.fc43                                         rpm     
 libgcc                             15.3.1-1.fc43                                      rpm     
@@ -95,7 +95,7 @@ libssh                             0.11.5-1.fc43                                
 libssh-config                      0.11.5-1.fc43                                      rpm     
 libstdc++                          15.3.1-1.fc43                                      rpm     
 libtasn1                           4.21.0-1.fc43                                      rpm     
-libtirpc                           1.3.7-1.fc43                                       rpm     
+libtirpc                           1.3.7-1.rc1.fc43                                   rpm     
 libtool-ltdl                       2.5.4-8.fc43                                       rpm     
 libunistring                       1.1-10.fc43                                        rpm     
 libusb1                            1.0.30-1.fc43                                      rpm     
@@ -115,7 +115,7 @@ nettle                             3.10.1-2.fc43                                
 npth                               1.8-3.fc43                                         rpm     
 oniguruma                          6.9.10-3.fc43                                      rpm     
 openldap                           2.6.13-1.fc43                                      rpm     
-openssl-libs                       1:3.5.7-2.fc43                                     rpm     
+openssl-libs                       1:3.5.8-1.fc43                                     rpm     
 p11-kit                            0.26.5-1.fc43                                      rpm     
 p11-kit-trust                      0.26.5-1.fc43                                      rpm     
 pam                                1.7.1-5.fc43                                       rpm     
@@ -130,7 +130,7 @@ rootfiles                          9.0-4.fc43                                   
 rpm                                6.0.2-1.fc43                                       rpm     
 rpm-build-libs                     6.0.2-1.fc43                                       rpm     
 rpm-libs                           6.0.2-1.fc43                                       rpm     
-rpm-sequoia                        1.10.2-4.fc43                                      rpm     
+rpm-sequoia                        1.10.3-1.fc43                                      rpm     
 rpm-sign-libs                      6.0.2-1.fc43                                       rpm     
 sdbus-cpp                          2.1.0-3.fc43                                       rpm     
 sed                                4.9-5.fc43                                         rpm     
@@ -144,8 +144,8 @@ tar                                2:1.35-6.fc43                                
 tpm2-tss                           4.1.3-8.fc43                                       rpm     
 tzdata                             2026c-1.fc43                                       rpm     
 util-linux-core                    2.41.5-1.fc43                                      rpm     
-vim-data                           2:9.2.967-1.fc43                                   rpm     
-vim-minimal                        2:9.2.967-1.fc43                                   rpm     
+vim-data                           2:9.2.1061-1.fc43                                  rpm     
+vim-minimal                        2:9.2.1061-1.fc43                                  rpm     
 which                              2.23-3.fc43                                        rpm     
 xz                                 1:5.8.1-4.fc43                                     rpm     
 xz-libs                            1:5.8.1-4.fc43                                     rpm     
