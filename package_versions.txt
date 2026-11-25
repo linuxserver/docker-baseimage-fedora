@@ -15,8 +15,8 @@ cracklib                           2.10.3-1.fc43                                
 crypto-policies                    20251125-1.git63291f8.fc43                         rpm     
 curl                               8.15.0-12.fc43                                     rpm     
 cyrus-sasl-lib                     2.1.28-33.fc43                                     rpm     
-dnf5                               5.2.18.0-6.fc43                                    rpm     
-dnf5-plugins                       5.2.18.0-6.fc43                                    rpm     
+dnf5                               5.2.18.0-7.fc43                                    rpm     
+dnf5-plugins                       5.2.18.0-7.fc43                                    rpm     
 elfutils-default-yama-scope        0.197-1.fc43                                       rpm     
 elfutils-libelf                    0.197-1.fc43                                       rpm     
 elfutils-libs                      0.197-1.fc43                                       rpm     
@@ -65,8 +65,8 @@ libcap                             2.76-4.fc43                                  
 libcap-ng                          0.9.6-1.fc43                                       rpm     
 libcom_err                         1.47.3-2.fc43                                      rpm     
 libcurl                            8.15.0-12.fc43                                     rpm     
-libdnf5                            5.2.18.0-6.fc43                                    rpm     
-libdnf5-cli                        5.2.18.0-6.fc43                                    rpm     
+libdnf5                            5.2.18.0-7.fc43                                    rpm     
+libdnf5-cli                        5.2.18.0-7.fc43                                    rpm     
 libeconf                           0.7.9-2.fc43                                       rpm     
 libevent                           2.1.13-1.fc43                                      rpm     
 libffi                             3.5.2-1.fc43                                       rpm     
